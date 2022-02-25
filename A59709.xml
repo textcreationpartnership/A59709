@@ -1,0 +1,626 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ansvver to the scandalous aspersions of committees, by Mr. Walter Powell, in his booke, called, Newes for newters, &amp;c. and in his epistles preceding his booke. By William Sheppard Esquire, one of the members of the committee for Gloucester, Hereford, &amp;c.</title>
+            <title>Answer to the scandalous aspersions of committees, by Mr. Walter Powell, in his booke, called, Newes for newters, &amp;c. and in his epistles preceding his booke.</title>
+            <author>Sheppard, William, d. 1675?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 85 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59709</idno>
+            <idno type="STC">Wing S3176A</idno>
+            <idno type="STC">ESTC R203562</idno>
+            <idno type="EEBO-CITATION">99825262</idno>
+            <idno type="PROQUEST">99825262</idno>
+            <idno type="VID">29640</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59709)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29640)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1875:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ansvver to the scandalous aspersions of committees, by Mr. Walter Powell, in his booke, called, Newes for newters, &amp;c. and in his epistles preceding his booke. By William Sheppard Esquire, one of the members of the committee for Gloucester, Hereford, &amp;c.</title>
+                  <title>Answer to the scandalous aspersions of committees, by Mr. Walter Powell, in his booke, called, Newes for newters, &amp;c. and in his epistles preceding his booke.</title>
+                  <author>Sheppard, William, d. 1675?</author>
+               </titleStmt>
+               <extent>[10], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>Printed in the year, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Powell, Walter, b. 1590 or 91. --  Newes for newters --  Early works to 1800.</term>
+               <term>Church of England --  Discipline --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:29640:1"/>
+            <pb facs="tcp:29640:1"/>
+            <p>AN <hi>ANSWER TO THE SCANDALOVS ASPERSIONS OF COMMITTEES, By M<hi rend="sup">r.</hi>
+               </hi> Walter Powell, <hi>in his Booke, called,</hi> NEWES <hi>for</hi> NEWTERS, <hi>&amp;c. and in his Epiſtles preceding his Booke.</hi>
+            </p>
+            <p>
+               <hi>By</hi> William Sheppard <hi>Eſquire, one of the Members of the Com<g ref="char:EOLhyphen"/>mittee for</hi> Glouceſter, Hereford, <hi>&amp;c.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>PSAL.</hi> 64. 2, 3, 7.</bibl>
+               <p>Hide me from the ſecret councell of the wicked: from the inſurrection of the workers of iniquity.</p>
+               <p>Who whet their tongue like a ſword, and bend their bowes, to ſhoot their arrowes, even bitter words.</p>
+               <p>But God ſhall ſhoot at them with an arrow, ſuddenly ſhall they be wounded.</p>
+            </q>
+            <p>
+               <hi>Printed in the Year,</hi> 1648.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:29640:2"/>
+            <pb facs="tcp:29640:2"/>
+            <head>The Epiſtle to the READER.</head>
+            <p>
+               <seg rend="decorInit">C</seg>Ourteous Reader, one <hi>Mr. Walter Powell,</hi> a Mini<g ref="char:EOLhyphen"/>ſter (who cals himſelf Vicar of <hi>Standiſh)</hi> hath of late Printed, and publiſhed a new Book, named <hi>News for Newters, &amp;c.</hi> and in his Dedicatory <note place="margin">
+                  <hi>See his Epiſtles and the Book. fol.</hi> 28.</note> Epiſtle; firſt to Major Generall <hi>Maſſie,</hi> and next to the Honourable Houſe of Commons in Parlia<g ref="char:EOLhyphen"/>ment, and in ſome paſſages of the Book he hath taken upon him the boldneſs freely to raile upon Country Committees, more freely upon the Committee of <hi>Glouceſter, &amp;c.</hi> but moſt virulently againſt one Mem<g ref="char:EOLhyphen"/>ber thereof, for the injuſtice and hard meaſure he hath had by a ſen<g ref="char:EOLhyphen"/>tence <note place="margin">Si accuſare ſuf<g ref="char:EOLhyphen"/>ficiat, ecquis erit innocens?</note> given by the Committee of <hi>Glouceſter</hi> againſt him, to out him of his Vicarage; whereby he pretendeth he hath ſuffered more injury <hi>(ſe ipſo judice)</hi> then ever the Martyres did ſuffer by their perſecu<g ref="char:EOLhyphen"/>tors. Wherefore to vindicate the reputation of the Gentlemen of that Committee who joyned in that act, (ſome whereof are dead) to pull off the vizard from his impudent face, and to put a ſtop to his deceits that he may no longer amuſe and abuſe other men there with; I have been neceſſitated to take upon me this taske, to Examine the proceeding of the Committee againſt him, and his repreſentation thereof, and charge therein againſt the Committee.</p>
+            <p>In anſwer to, and for the clearing of both which, I ſhall do no more, but preſent you with the naked truth of the proceedings, and give you the whole caſe faithfully extracted and ſtated out of the Records of the Committee, with ſome ſhort additionals, and brief obſervations there<g ref="char:EOLhyphen"/>upon: entreating you that have read the one, to read the other alſo, <note place="margin">Qui ſtatuit ali<g ref="char:EOLhyphen"/>quid parte inau<g ref="char:EOLhyphen"/>dita altera, <hi>&amp;c.</hi>
+               </note> that ſo by comparing the one with the other, you may be able to judge of both.</p>
+            <p>If you read his Epiſtles, you find him therein affirme theſe parti<g ref="char:EOLhyphen"/>culars <note place="margin">See the Epiſtles</note> againſt the Gentlemen of the Committee of <hi>Glouceſter.</hi> 1. That their proceedings againſt him in the matter before them was unjust, and in the judgement of ſome Members of Parliament unpa<g ref="char:EOLhyphen"/>rallel.
+<pb facs="tcp:29640:3"/> 2. That they are ruining unjuſt Judges. 3. That the ſen<g ref="char:EOLhyphen"/>tence given by them againſt him was matchleſſe, malitious, and ab<g ref="char:EOLhyphen"/>hominable, ſuch as the ſtones cry for justice againſt them for it.</p>
+            <p>For anſwer to theſe Charges, if you will be but pleaſed to read his Crimes for which he was ejected, in the proofs of the witneſſes againſt him, or (if that be too long) <note n="†" place="margin">
+                  <hi>See it, fol.</hi> 16.</note> in the ſentence given againſt him, wherein they are abridged, and the manner of the proceeding of the Committee in his ejectment, and take this withall, that there was ſomething more proved before the Committee, <hi>viva voce,</hi> at the hea<g ref="char:EOLhyphen"/>ring of the cauſe then is Recorded; you will eaſily perceive that this ſlander of <hi>Mr. Powell,</hi> of the living and dead (not the ſentence and proceeding of the Committee in his caſe) is matchleſſe, malitious, ab<g ref="char:EOLhyphen"/>hominable, and unparallel. But he tels you of ſome particulars where<g ref="char:EOLhyphen"/>in this injuſtice was ſhewed. 1. That he was caſt out of his Living <note place="margin">See his Epiſtles.</note> being unheard, and that his cenſure was before any witneſſe of his could be heard, and that the Certificate of ſome of the Committee herein conteineth manifeſt untruths, &amp;c. For the clearing of this Slan<g ref="char:EOLhyphen"/>der (if his mouth or penne be a ſlander) if you pleaſe to looke into the <note place="margin">
+                  <hi>See in the pro<g ref="char:EOLhyphen"/>ceſs of the cauſe, f.</hi> 12, 8, 13, 14. Fatetur facinus qui fugit judi<g ref="char:EOLhyphen"/>cium.</note> proceedings, you ſhall find he did examine three witneſſes, refuſed to anſwer the Articles exhibited againſt him, appealed from the Com<g ref="char:EOLhyphen"/>mittee, to the Parliament, refuſed to be tryed by the Committee, ha<g ref="char:EOLhyphen"/>ving as little mind to be tryed by them (many of whom were his neighbours, had lived more then <hi>twenty</hi> years by him, and knew him very well) as he hath to have his cauſe re-heard according to the or<g ref="char:EOLhyphen"/>der of the Committee of Plundred Miniſters made now more then two years ſince. But the truth is he had, and might have had (as others had in like caſe) leave to examine as many witneſſes as he pleaſed. And you ſhall find in the proceſs of the cauſe, that the wit<g ref="char:EOLhyphen"/>neſſes <note place="margin">
+                  <hi>fol.</hi> 14.</note> on both ſides were to be preſent at the hearing of the cauſe. And that Warrants were to be ſent forth to bring them in, which he might have had done if he had had any mind to it. 2. He will tell you he waited long. I ſhall ſay thus much to this, that had it been true, it had been no cauſe of complaint; for all men that had to do with the Committee in that time did ſo, nor could the Committee, having then ſo much to do, dispatch men ſooner. But how long did he waite? If you view the caſe, you ſhall ſee the 19 Articles againſt him were exhibited againſt him <hi>Decemb.</hi> 3. 1644. and it was heard the 25 of <hi>Febr.</hi> following, which was no long time to examine above 40 wit<g ref="char:EOLhyphen"/>neſſes, and if it were long, it was made long by his delay. 3. He will
+<pb facs="tcp:29640:3"/> tell you he had additionall Articles put in againſt him, we do not find, remember nor beleeve this to be ſo, but this may be true, his crimes deſerving it, and (if ſo it be) is juſt and no more but what was uſed before that Committee, and is uſed before other Committees in like caſe. 4. He complaines that he could not have Copies of the depoſiti<g ref="char:EOLhyphen"/>ons, and be preſent at the examination of witneſſes; For the firſt of theſe, I have examined the Clerke, who doth affirme, that he had the offer of the heads of the proofs againſt him, without the names of the witneſſes, as other men in like caſe: But nothing would ſatisfie him, but the depoſitions at large with the names of the witneſſes, a thing (in that time) not granted to any man in like caſe. But (by his favour) I thinke he ought not to have had ſo much granted to him till he had anſwered the Articles exhibited againſt him, which he alwayes refuſed to do. And that the party ac<g ref="char:EOLhyphen"/>cuſed, ſhould be preſent at the private examination of witneſſes againſt him, was a motion against all reaſon, &amp; that which the Committee did not thinke fit to grant to any one in the like caſe, but he might have been preſent at the publique examination. 5. He complaines yet further, and ſaith: That all that was done by the whole Committee (being eight of them) was done by the procurement of one Committee<g ref="char:EOLhyphen"/>man; This is as true as the reſt, and as ſenſles and ridiculous as falſe. Nor can theſe ſeven Gentlemen take this well, that they ſhould be deemed ſo ſhallow and weake, to be all of them in ſo great a worke led by one, and one of the meanest of them. 6. But he finds fault further, and ſaith: That he was adjudged to be ſcandalous, to ſatiſ<g ref="char:EOLhyphen"/>fie the greedy appetites of a new Committee-man, an old hangman, a poſted Malignant, and a profeſſed Newter: I muſt herein, as to the perſons whoſe appetites he pretends were ſatisfied by this unjuſt cen<g ref="char:EOLhyphen"/>ſure, profeſſe my ignorance of his meaning, except by <hi>old hangman</hi> he mean one <hi>Henry Gabb,</hi> who offered to give evidence againſt him, but was refuſed, For the greateſt part, if not all the witneſſes, who did depoſe againſt him were very ſubſtantiall, many of them Religious perſons. And I dare ſay that as the Judges were diſcreet &amp; juſt men, ſo was that judgement of theirs uncorrupt, and according to the merit of the cauſe, not to ſatisfie the greedy appetite of any, but to ſatisfie their owne Con<g ref="char:EOLhyphen"/>ſciences in the diſcharge of the truſt put upon them. 7. But he tels you ſomewhere he ſped the worſe in his cauſe for his Sermon. This is as true as all the reſt: And obſerve how probable it is when himſelf affirmeth, that the man that procured all this in-juſtice to be done, did not hear
+<pb facs="tcp:29640:4"/> the Sermon, and (if we miſtake not the man) he doth aſſure you he never (to his remembrance) heard any thing of his Sermon, till now that he had made it ſo common by his Printing and publiſhing there<g ref="char:EOLhyphen"/>of.</p>
+            <p>2. But in aggravation of all theſe wrongs, he boaſts himſelf, for lack of neighbours to do it for him: and cries up what love he hath borne to, and how much he hath done, for the Parliament.</p>
+            <p>Tell me for this <hi>Mr. Powell,</hi> when you began firſt to ſhew your ſelf ſo friendly to the Parliament: for I do not remember I have heard any thing of your zeal for it, till first by their zeal againſt you, you were like by their Commiſſioners to be juſtly puniſhed for your wicked life: and then (as your manner is) you begin to flatter with the Parliament: but what have you done for the Parliament tell me if you can: if not, I will tell you what you have not done for it. Did you out of your great estate lend the Parliament any money in the time of its extreamity? I will play the foole a little alſo, and tell <note place="margin">Amicus certus, <hi>&amp;c.</hi>
+               </note> you of a Committee-man, and (it may be) the man you are ſo much troubled withall, who out of his penury lent the Parliament 40. <hi>l.</hi> in the time of its extreamity, did you out of your plenty lend it 40. <hi>s.?</hi> Nay are not you the man that did and ſtill do ſhew your ſelf moſt averſe and unwilling to the payment of all Parliament taxes, and <note place="margin">
+                  <hi>See the caſe. fol.</hi> 11.</note> threaten and reproach the Parliament Collectors and Officers in the execution of their office, yet more, I ſhall tell you what you have done againſt the Parliament. 1. You have, yet more to heighten and provoke the rage and fury of the people againſt the Parliament and their ſervants, charged all Country Committees with injuſtice, op<g ref="char:EOLhyphen"/>preſſion, and tyranny, as one of the great cauſes of the ſtaggering of the people, and in this do you not ſtrike the Parliament through their <note place="margin">
+                  <hi>Fol.</hi> 29. <hi>of his Book,</hi> Injuria ſervo illata re<g ref="char:EOLhyphen"/>dundat in domi<g ref="char:EOLhyphen"/>num.</note> ſervants ſides? you are doubtleſſe in the right where you ſay, This doth reflect upon the honour of the Parliament, as moyſture in the feet ſtrikes up to the head. But can you make out this accuſation well againſt all Committees as you have done the accuſations you have made againſt the Committee of <hi>Glouceſter?</hi> I dare ſay, if you were put to it you cannot prove two unjuſt acts to be done by all the Committees of <hi>England,</hi> your Tongue is your owne. 2. Are not you <note place="margin">
+                  <hi>See the caſe. fol.</hi> 9.</note> the man that placed and kept in <hi>Raudwick</hi> one of your Cures, one <hi>Mr. Smith,</hi> a man notorious for his ſcandall and ill affection to the Parliament, till he was for the ſame ejected by the Committee of
+<pb facs="tcp:29640:4"/> 
+               <hi>Glouceſter,</hi> and did not you then indeavour to oppoſe their juſtice therein? and are not you the man that notwithstanding you were pre<g ref="char:EOLhyphen"/>ſent at the hearing of his cauſe, and the ſentence of his ejectment, who did cauſe the ſame <hi>Smith</hi> to Preach in your own Church at <hi>Stan<g ref="char:EOLhyphen"/>diſh,</hi> your ſelf being preſent, the next Faſt day, after his ejectment? 3. And (if I miſtake not) you placed and kept in <hi>Hardwick,</hi> 
+               <note place="margin">A good cauſe is much wronged by a bad cham<g ref="char:EOLhyphen"/>pion.</note> (another of your Churches) one <hi>Mr. Swan</hi> (as great a Cavaleere as any you cry out ſo much againſt) till he was forced to flie from thence for fear of the Parliament Army. I dare not affirme that you do not love the Parliament: But if you do, I will tell you what is ſaid of <hi>Ithaſius</hi> hatred to the <hi>Priſcillian hereſie,</hi> it was all the virtue he had.</p>
+            <p>3. After this he tels you of his ſufferings for the Parliament in his name, perſon and eſtate, which he tels you have been intolleraale, in<g ref="char:EOLhyphen"/>credible, and to the loſſe of his lively-hood and danger of his life.</p>
+            <p>For this we have enquired of his ſufferings by the Kings Party, and can hear of nothing of value taken from him ſave what he had againe, except two Oxen, a Bullock and Bull taken by <hi>Sir Ralph Duttons</hi> meanes, for a debt of 8. <hi>l. Sir Ralph</hi> challenged from him for Rent, the which he had againe, and might have kept if he would have paid him, and foure Kine, and ſome ſmall pieces of houſholdſtuffe; this we have heard to be the truth of that caſe.</p>
+            <p>And as to his ſufferings by this hideous ſentence of the Committee, we cannot imagine how he ſhould be much hurt by this: for the truth is (as he himſelf in one of his Epiſtles confeſſeth) that not long after this ſentence given for his ejectment, he got an Order from the Committee of Plundered Miniſters to reſtore him to the Vicarage of <hi>Standiſh,</hi> and his arreares, and hereby he hath ever ſince enjoyed it againſt the Order of the Committee. And we are credibly informed, that albeit <hi>Mr. Powell</hi> was abſent from his charge at <hi>Standiſh</hi> almoſt a whole year, and (for the moſt part) the ſame was ſerved by other Mini<g ref="char:EOLhyphen"/>ſters: Yet there hath not been above 30. <hi>l.</hi> of the profits of the Vie<g ref="char:EOLhyphen"/>carage taken from him by any other Miniſter. And that he either hath, or might have received the reſt. <hi>Runwick</hi> and <hi>Saule</hi> being places inconſiderable, not able to diſcharge the Curate: I do not find that the Committee have intermedled with them. And as for <hi>Hard<g ref="char:EOLhyphen"/>wick</hi> (now worth about 40. <hi>l.</hi> a year) it was at or near the time of the Order of ejectment, in the hands of one <hi>Mr. Dowlman,</hi> who held
+<pb facs="tcp:29640:5"/> the ſame by an Order of Major Generall <hi>Maſſie</hi> then Governor of <hi>Glouceſter,</hi> made by him before any Committee there ſetled upon the Petition of the Pariſh: After that <hi>Mr. Dowlman</hi> had left Major <note place="margin">
+                  <hi>See the caſe. fol.</hi> 9.</note> Generall <hi>Maſſie</hi> and others (as Committee-men) placed <hi>Mr. Ven</hi> there, who after he had been there about eight weekes, was frighted from it by <hi>Mr. Powell,</hi> and had nothing at all (that we can heare of) for his paines, and after this time the Committee did not at all inter-meddle with the diſpoſall of this Church, till they placed <hi>Mr. Walker</hi> in it, who was there about five Moneths only; ſo that upon this ac<g ref="char:EOLhyphen"/>count there could not be above 50. <hi>l.</hi> at the moſt of the profits of all his Churches, diſpoſed away from him in all that time by order of the Com<g ref="char:EOLhyphen"/>mittee, which is the thing he deſireth the Parliament to conſider, and to give him reparations for, as for intollerable ſufferings.</p>
+            <p>4. But in this <hi>Mr. Powell</hi> finds great fault in the Committee, eſpecially in one Member thereof, to place (for his ſupplanting) in his Chappell (as he cals it) a Miniſter that hath been taken in Armes againſt the Parliament, ejected out of his living in <hi>Monmouth</hi> ſhire, for being contentious againſt his neighbours, a common drunkard, a rayler againſt the Parliament, and one who ſaid he was and would be a Cavaliere. And herein he ſuppoſeth he hath charged the Committee home, and ſo he hath, but it was without powder or bullets. To all this I anſwer, that if this be true of this man (which <note place="margin">Turpe eſt do<g ref="char:EOLhyphen"/>ctori, &amp;c. <hi>See the Orders in the caſe. f.</hi> 17</note> is more then the Committee know) he is too too like <hi>Mr. Powell.</hi> But all that the Committee did herein was this. The place being void, upon a Petition under the hand of moſt of the pariſhioners, to have this man ſetled amongst them. The Committee knowing no more of the man but this only, that he was a man well gifted, able to pray and Preach very well, they paſſed an Order that he ſhould be there upon tryall untill they might have better knowledge of him: and as ſoone as they had information againſt him, that he was a man ill af<g ref="char:EOLhyphen"/>fected to the Parliament, they made another Order to put him out. The Copies of both which Orders you ſhall find at large in the proceſſe of his cauſe.</p>
+            <p>5. He ſeemes to find fault that Committee men, who have no land, do act in the Committees, and thereby implies, that he thinks thoſe men who have no land, unfit to be imployed in that worke.</p>
+            <p>Is not this your meaning <hi>Mr. Powell?</hi> if it be, it is ſtrange Logick to me, that becauſe a man hath no land, he ſhould be unfit for pub<g ref="char:EOLhyphen"/>lique
+<pb facs="tcp:29640:5"/> imployment; if your arguing in your booke be no better, I mar<g ref="char:EOLhyphen"/>vaile not, it hath ſo little eſteeme amongst the wiſeſt men: may not a man have a good eſtate that hath no eſtate in Land? But why may not a man without land be as fit for a Committee-man, as a Miniſter? I doubt not <hi>Mr. Powell</hi> was as honeſt a man, and as fit for his office when he had no Land, and before he bought the Mannor of <hi>Sir Ralph Dutton,</hi> and was to give 3000. <hi>l.</hi> for it, when I preſume he knew not where to have 1000. <hi>l.</hi> to pay for it, and after when he had for want of money reconveyed it to <hi>Sir Ralph Dutton</hi> for his ſecurity of his money, as while he was by this purchaſe Lord of a Mannor.</p>
+            <p>6. But in his <hi>Errata</hi> upon his Book (not having ſpit all his venome before) he tels you of ſomething he had forgotten: that ſome Com<g ref="char:EOLhyphen"/>mittee-men had bought more Lands ſince they were preferred to their Committeeſhips then they ſold before.</p>
+            <p>I ſuppoſe be meanes by this that they ſold their Land for need, and bought againe by their diſhoneſt gaine in their new office, otherwiſe he ſaith nothing to purpoſe, and who theſe men are, I, nay I dare ſay he cannot tell. But being willing to tell you all I know, I ſhall tell you of one Committee-man, that having a piece of Land of 80. <hi>l. per. an.</hi> who did (not for lack of money) but for other weighty cauſes (as is well knowne to many Parliament-men) ſell it for 2000. <hi>l.</hi> part of which he laied out before, and part ſince he was made a Committee<g ref="char:EOLhyphen"/>man, upon Leaſes and Coppy-hold eſtates. And yet in all he hath not laid out by 100. <hi>l.</hi> ſo much as he made, it may be this is the man and matter you intend.</p>
+            <p>Laſt of all, as to all that barking of his, in a rable of groundleſſe, frivolous and ſenſleſſe accuſations againſt one Committee-man, he cals his malevolent Committee adverſary. That he procured all this injuſtice to be done, turned his back to his Sermon, went out of <hi>Glou<g ref="char:EOLhyphen"/>ceſter</hi> at the Siege, &amp;c. albeit the things are not worth anſwering, yet I ſhall give them this anſwer. There is no truth in theſe aſſertions. <note place="margin">Aeque laus, eſt ab improbis, im<g ref="char:EOLhyphen"/>probari, ac à bo<g ref="char:EOLhyphen"/>nis probari.</note> For firſt, men would have more eaſily beleeved, that one of the Mem<g ref="char:EOLhyphen"/>bers of the Committee was his malevolent adverſary, had the ac<g ref="char:EOLhyphen"/>cuſer ſhewed any reaſon why he ſhould be his adverſary, for the next thing (as I have ſaid already) what was done by the Committee against the complainer was unanimous by all the Committee, without the conſent of three, of whom no Committee act can be done; for the third <hi>Mr. Powell</hi> makes a very good improvement, but a ſtrange
+<pb facs="tcp:29640:6"/> conſtruction of that act: It is much he could thinke of no other occa<g ref="char:EOLhyphen"/>ſion which the man might have to go out of the Church, but diſre<g ref="char:EOLhyphen"/>ſpect of his Sermon, and fear of his preſence, it is more like, <hi>Mr. Powell</hi> a guilty man as you were, might fear the preſence of the Committee-man appointed to be one of your Judges, then that he ſhould fear you. The going away of the Committee-man from <hi>Mr. Powels</hi> Sermon, (if we miſtake not the man) was not out of fear of his perſon, or diſ<g ref="char:EOLhyphen"/>reſpect <note place="margin">Parturiunt montes, &amp;c.</note> of his Sermon, nor for any other reaſon, but becauſe he was ſent for out of the Church about ſome ſpeciall buſineſſe. And for his going away at the Siege, he went away about a fortnight before the Siege, and ſtaied out at the Siege: And what of this? is it (in your judgement) a crime for a man that had nothing to do in <hi>Glouceſter</hi> to go out of it at the Siege? Thus have you the whole caſe: And now let the world judge by the promiſſes, what manner of man this is: and whether he hath not herein evidenced to all the world the truth of one of theſe Articles exhibited againſt him (not ſo fully proved before) to wit, that he is a common lyer; for he that will in ſo few lines print ſo many lyes, may be preſumed in his ordinary diſcourſe to tell many lyes. And whether the Committee of <hi>Glouceſter</hi> have not more rea<g ref="char:EOLhyphen"/>ſon to Petition the Parliament to have a Commiſſion, to ſuch Com<g ref="char:EOLhyphen"/>miſſioners as the Parliament ſhall be pleaſed to name, to examine the falſhood of theſe accuſations, then that <hi>Mr. Powell</hi> ſhould deſire <hi>a</hi> Commiſſion from the Parliament, to ſuch Commiſſioners as he ſhall name, to examine the Combination and unjuſt proceedings of his ma<g ref="char:EOLhyphen"/>levolent Committee adverſay, &amp;c.</p>
+            <closer>
+               <signed>Your true friend W. S.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:29640:6"/>
+            <p>I Have left his Booke to be ſcanned by thoſe that have more leaſure, and ability then I have yet: I ſhall give you the ſuddaine ſence of a witty Schollar upon it, in theſe Verſes I lighted on by chance.</p>
+            <div type="poem">
+               <head>
+                  <hi>To the Reader on Mr.</hi> Powels <hi>Booke.</hi>
+               </head>
+               <l>Laugh and be fat: for thou didſt never taſt</l>
+               <l>So many kickſhawes at a publike faſt:</l>
+               <l>He the firſt ſervice prefaced (as appears)</l>
+               <l>With Hedghogs, Eagles, Puſsicats, and Beares.</l>
+               <l>Whether this Cooke ſerved it in Plate or Pewter,</l>
+               <l>Were wiſe, or witty? Aske not: He is Neuter.</l>
+               <l>Aske what he lent the State, himſelfe can tell it,</l>
+               <l>Much in a mouthfull, or a paper pellet.</l>
+               <l>Aske what was offered on his Faſting day?</l>
+               <l>They offered more then one to go away.</l>
+               <l>Aske what he did? what griſt he brought to th' mill?</l>
+               <l>Then the mans groun'd, and neuter paſsive ſtill.</l>
+               <p>
+                  <hi>Here followeth a true Coppy of all the proceedings of the Committee of</hi> Glouceſter, <hi>in Mr.</hi> Walter Powels <hi>caſe.</hi>
+               </p>
+            </div>
+         </div>
+      </front>
+      <body>
+         <div type="ordinance">
+            <pb n="2" facs="tcp:29640:7"/>
+            <head>
+               <hi>That Branch of the Ordinance, made the</hi> 10. <hi>of</hi> May, 1644. <hi>by which, the Committee of</hi> Glouceſter, <hi>&amp;c. are authorized to put out Scandalous, and il-affected Miniſters.</hi>
+            </head>
+            <p>ANd be it further Ordained by the ſaid Lords and Commons, that the ſaid Committees, or any three of them, ſhall have power to call before them, all Miniſters and Schoole-maſters within the ſaid Counties and City, that are Scandalous in their lives, or il-affected to the Parliament; or fomenters of this unnaturall War, or ſhall wilfully refuſe obedience to the Ordinances of Par<g ref="char:EOLhyphen"/>liament: or ſhall have deſerted their ordinary place of reſidence, not being imployed in the ſervice of the King and Parliament. And they ſhall have power to ſend for any witneſſes, and examine any complaint, or receive any reſtimony againſt them, upon Oath of any perſon that ſhall be produced to give Evidence againſt them, and upon ſuch proofs of the aforeſaid crimes, the ſaid Committees, or any three or more of them, have hereby power to remove, and Eject, all ſuch Scandalous Miniſters, and Schoole-maſters, and in their places nominate and appoint, ſuch learned, able, and Godly perſons as they ſhall thinke fit, and ſhall cauſe all ſuch Miniſters, and Schoole maſters, ſo no<g ref="char:EOLhyphen"/>minated and placed, to be put in poſſeſſion of the ſaid ſeverall Churches, and Schooles, who ſhall and may repreſentatively, take, receive, and perceive to their owne uſe, the profits, and revenues, belonging to the ſaid ſeverall Chur<g ref="char:EOLhyphen"/>ches and places.</p>
+         </div>
+         <div type="articles">
+            <head>
+               <hi>Articles Exhibited to the Committee for the County of</hi> Glouceſter, <hi>againſt</hi> Walter Powell <hi>Clerke, Vicar of</hi> Standiſh, <hi>in the ſaid County,</hi> 3. Decemb. 1644.</head>
+            <p n="1">1. <hi>
+                  <seg rend="decorInit">I</seg>Mprimis,</hi> That he keepeth and holdeth foure places, with cure of ſouls in his hands, and endeavoureth to do ſo ſtill, and taketh lit<g ref="char:EOLhyphen"/>tle care for either of them.</p>
+            <p n="2">2. <hi>Item,</hi> That he is a common haunter of Alehouſes, and hath been drunke oft.</p>
+            <p n="3">3. <hi>Item,</hi> That he doth ſo exceedingly buſie himſelf in ſecular affaires, that he is not fit to undertake the cure of ſouls.</p>
+            <p n="4">4. <hi>Item,</hi> That he is a common lyar, and very deceitfull in word and deed.</p>
+            <p n="5">
+               <pb n="3" facs="tcp:29640:7"/> 5. <hi>Item,</hi> That he is a man very contentious, and given to Law ſuits.</p>
+            <p n="6">6. <hi>Item,</hi> That he is a common Cheater, and doth uſually over-reach his neighbours in bargaining.</p>
+            <p n="7">7. <hi>Item,</hi> That he having the Cure, and charge of <hi>Rendwick</hi> Church under him, hath for divers years together, kept and con<g ref="char:EOLhyphen"/>tinued Mr. <hi>John Smith,</hi> a Curate under him, who is a man very ſcandalous, and ill affected to the Parliament, and one who for the ſame is Ejected by the Committee, and yet a man much fa<g ref="char:EOLhyphen"/>voured, and countenanced by Mr. <hi>Powell.</hi>
+            </p>
+            <p n="8">8. <hi>Item,</hi> That the ſaid Mr. <hi>Powell</hi> the laſt year, was abſent from all his Churches 12. weekes together, and made no proviſi<g ref="char:EOLhyphen"/>on for them all that time.</p>
+            <p n="9">9. <hi>Item,</hi> That when the Committee (the preſentation of the ſame Churches belonging to the Biſhop of <hi>Glouceſter)</hi> had at the ſuite of the Pariſhoners of <hi>Hardwick</hi> (they being then in diſtreſſe for want of a Miniſter) put (in Mr. <hi>Powels</hi> abſence) one Mr <hi>Ven</hi> an honeſt Miniſter, who continued there diverſe weekes, and ſer<g ref="char:EOLhyphen"/>ved the Cure, yet Mr. <hi>Powell</hi> when he came home, turned him out contrary to the Order of the Committee, and refuſed to give him any ſatisfaction for the time he had ſerved the Cure.</p>
+            <p n="10">10. <hi>Item,</hi> That Mr. <hi>Powell</hi> when he came from <hi>London,</hi> gave out ſpeeches he had an Order from the Parliament to put out Mr. <hi>Ven,</hi> when he had none.</p>
+            <p n="11">11. <hi>Item,</hi> That Mr. <hi>Powell</hi> in contempt of the Committee af<g ref="char:EOLhyphen"/>ter they had Ejected Mr. <hi>John Smith</hi> his Curate at <hi>Rendwick,</hi> cauſed him the next Faſt day after the ſaid Ejectment, to Preach in his own Pariſh Church at <hi>Standiſh,</hi> he being preſent when the ſaid Mr. <hi>Smith</hi> was Ejected.</p>
+            <p n="12">12. <hi>Item,</hi> He hath cauſed divers perſons of the Pariſh of <hi>Standiſh,</hi> to be preſented in the <hi>Conſiſtory</hi> Court at <hi>Glouceſter,</hi> for going to other Pariſhes to hear Sermons, when as himſelfe did neglect the ſaid Cure once a day at leaſt.</p>
+            <p n="13">13. <hi>Item,</hi> That after there had been debate before the Com<g ref="char:EOLhyphen"/>mittee, touching the Rents in queſtion, between Sir <hi>Ralph Dutton</hi> and Mr. <hi>Pawell,</hi> and the Committee had told him that he ſhould not receive the ſaid Rents, he notwithſtanding did cunningly practice with Mr. <hi>Hart</hi> the Collector, perſwading him to abuſe
+<pb n="5" facs="tcp:29640:8"/> the power committed to him, to get the ſaid Rents into his hands.</p>
+            <p n="14">14. <hi>Item,</hi> That ſince he hath been queſtioned before the Committee, he hath given out threatning ſpeeches againſt the witneſſes that have been ſummoned in againſt him.</p>
+            <p n="15">15. <hi>Item,</hi> That ſince he hath been queſtioned before the Com<g ref="char:EOLhyphen"/>mittee, he hath been ſeen drinking in an Ale houſe at <hi>Wethen<g ref="char:EOLhyphen"/>hurſt</hi> 24 houres together.</p>
+            <p n="16">16. <hi>Item,</hi> That the ſaid Mr. <hi>Powell</hi> did ſuffer his ſervants, with Waine and Oxen, to carry Hay certaine Sabbath daies together.</p>
+            <p n="17">17. <hi>Item,</hi> That after Mr. <hi>Powels</hi> Cattle had been diſtrained for Contribution money, the ſaid <hi>Powell</hi> gave out threatning ſpeeches, that if ever the Kings Army came into the County again, he would be revenged of thoſe that had diſtrained his Cattle.</p>
+            <p n="18">18. <hi>Item,</hi> The ſaid Mr. <hi>Powell</hi> is a man much given to fight<g ref="char:EOLhyphen"/>ing and quarrelling.</p>
+            <p n="19">19. <hi>Item,</hi> That when the Overſeers of the poor for the Pa<g ref="char:EOLhyphen"/>riſh of <hi>Hardwick</hi> demanded of Mr. <hi>Powell</hi> his dues to the poor according to the Statute in that caſe provided; The ſaid Mr. <hi>Powell</hi> anſwered them, that if they would make him pay to the poor. according to the Statute, then they ſhould have Ser<g ref="char:EOLhyphen"/>mons according to the Statute, that is, once a moneth, or when they could have them.</p>
+         </div>
+         <div type="depositions">
+            <head>
+               <hi>Depoſitions of witneſſes to the Articles exhibited againſt</hi> Walter Powell <hi>Vicar of</hi> Standiſh. <hi>Decemb.</hi> 8. 1644.</head>
+            <p>1. TO the firſt Article, <hi>John Bainham</hi> of <hi>Hardwick</hi> being ſworne, ſaith, that the ſaid <hi>Walter Powell</hi> being now poſſeſſed of the Vicarage of <hi>Hardwick,</hi> is for the moſt part a non-reſident at <hi>Hardwick:</hi> And he ſaith that the laſt year 1643. there was but one Sermon in the Pariſh Church of <hi>Hardwick</hi> for 14 weekes together.</p>
+            <p>
+               <hi>Thomas Beard</hi> of <hi>Saul</hi> ſworne to the firſt Article ſaith, that Mr. <hi>Powell</hi> hath the charge of foure ſeverall Churches and Cures, <hi>(viz.) Standiſh, Hardwick, Rendwick</hi> and <hi>Saul.</hi> And ſaith, that the Privy Tythes of <hi>Saul</hi> and the Gleab-land there, is worth about 7. l. <hi>per an.</hi> And ſaith that Mr. <hi>Powell</hi> ſince he had the
+<pb n="4" facs="tcp:29640:8"/> Cure of <hi>Saul</hi> he ſold away the Gleab-land and the Church-yard belonging to <hi>Saul</hi> for 60. years if he the ſaid <hi>Powell</hi> ſo long live. And that Mr. <hi>Powell</hi> hath for the moſt part placed to ſerve the Cure of <hi>Saul</hi> Drunken Idle Miniſters, ſuch as he could get beſt cheape; one whereof (whoſe name was <hi>Floyd)</hi> the ſaid <hi>Powell</hi> hired for about 40. s. <hi>per an.</hi> to ſerve the ſaid Cure, and that the ſaid <hi>Floyd</hi> was enforced to ſue the ſaid <hi>Powell</hi> for the ſaid 40. s. before he could have it. And he ſaith diverſe of the Inhabitants of <hi>Saul,</hi> have formerly been preſented at the Conſiſtory Court, ſome of them and their whole families by the ſaid <hi>Powels</hi> bad Curates for going to other Pariſhes to hear able Miniſters Preach.</p>
+            <p>
+               <hi>John Beard</hi> and <hi>John Ellis</hi> of <hi>Saul</hi> aforeſaid ſay upon Oath, that what <hi>Thomas Beard</hi> hath ſpoken is true in all points.</p>
+            <p>
+               <hi>Robert Keylock</hi> of <hi>Hardwick</hi> ſworne to the firſt Article ſaith, that Mr. <hi>Powell</hi> hath the charge of foure Churches and Cures, (viz.) <hi>Standiſh, Hardwick, Rendwick</hi> and <hi>Saul.</hi> And ſaith, that in the Pariſh Church of <hi>Hardwick</hi> they have had no Miniſter the laſt Summer for divers weekes together, but what the Pariſh procured of themſelves: and ſaith he hath heard and doth be<g ref="char:EOLhyphen"/>leeve that the Vicaridg of <hi>Hardwick</hi> hath been worth 50 l. <hi>per an.</hi> And ſaith that Mr. <hi>Ham</hi> being Curate of <hi>Hardwick</hi> about ten years ſince under Mr. <hi>Powell,</hi> was enforced to ſue the ſaid <hi>Powell</hi> for his wages at the Councell.</p>
+            <p>
+               <hi>John Niblet</hi> of <hi>Standiſh</hi> ſworne ſaith, that Mr. <hi>Powell</hi> hath the Cure and charge of foure Churches, <hi>(viz.) Standiſh, Hardwick, Rendwick</hi> and <hi>Saul,</hi> and ſaith that Mr. <hi>Ham,</hi> his Curate at <hi>Hard<g ref="char:EOLhyphen"/>wick,</hi> told this deponent, that he was faine to ſue the ſaid <hi>Powell</hi> for his wages, for ſerving the Cure of <hi>Hardwick.</hi>
+            </p>
+            <p>
+               <hi>Edward Mill</hi> of <hi>Standiſh</hi> being ſworne ſaith, that Mr. <hi>Powell</hi> hath the charge of foure Churches, and that <hi>Standiſh</hi> being one of them, hath been ſometimes neglected for a fortnight or three weekes together, without any Preaching or Prayers.</p>
+            <p>
+               <hi>John Paine</hi> of <hi>Hardwick</hi> being ſworne, ſaith, that Mr. <hi>Powell</hi> Vi<g ref="char:EOLhyphen"/>car of <hi>Hardwick,</hi> hath been very negligent in ſerving the Cure of <hi>Hardwick,</hi> and for three moneths laſt paſt, the ſaid Pariſh of <hi>Hardwick</hi> hath been neglected ſix ſeverall times.</p>
+            <p>
+               <hi>Richard Yealf</hi> of <hi>Hardwick</hi> being ſworne ſaith, that Mr. <hi>Powell</hi>
+               <pb n="6" facs="tcp:29640:9"/> hath and holdeth foure Churches with cure of ſouls (as this depo<g ref="char:EOLhyphen"/>nent hath heard) and that <hi>Hardwick</hi> being one of them, hath been many dayes neglected once a Saboth.</p>
+            <p>
+               <hi>Giles Wyman</hi> of <hi>Standiſh</hi> being ſworne ſaith, that Mr. <hi>Powell</hi> having the charge of foure ſeverall Churches, of which <hi>Standiſh</hi> is one: and he ſaith, that in <hi>Standiſh</hi> Church they have been ma<g ref="char:EOLhyphen"/>ny dayes neglected at leaſt once a Sunday: And he ſaith, that when the well minded people of the Pariſh have (by reaſon of his neglect) gone to other Pariſhes, he doth uſually raile at them, calling them <hi>Neuters, leane Witches, Gallopers, and Amblers to other Churches;</hi> And that when the Parliament doth ſettle things, he will be the firſt that ſhall queſtion them for it, theſe have been his uſuall expreſſions in the Pulpit.</p>
+            <p>
+               <hi>George Stratford</hi> of <hi>Standiſh</hi> being ſworne ſaith, that Mr. <hi>Powell</hi> hath been very negligent in ſerving the cure of <hi>Standiſh,</hi> and he ſaith, that for two Saboth dayes within two moneths laſt, the Bell having rung for a Sermon, when the people came to Church, they had no Sermon at all.</p>
+            <p>
+               <hi>Henry Payne</hi> being ſworne ſaith, that Mr. <hi>Powell</hi> is a man very negligent in ſerving the Cure of <hi>Standiſh,</hi> for this deponent ſaith that he hath lived many yeares in <hi>Standiſh</hi> parriſh, and that the ſaid pariſh hath been many Saboth daies neglected by Mr. <hi>Powell</hi> (in his duty) in ſerving the ſaid Cure, which hath occaſioned di<g ref="char:EOLhyphen"/>verſe of his pariſhioners (as the deponent beleeves) to go to other pariſhes to hear Sermons, whereupon the ſaid Mr. <hi>Powell</hi> uſually fais a rayling at them in the Pulpit for going to other pa<g ref="char:EOLhyphen"/>riſhes, calling them <hi>Trotters</hi> and <hi>Amblers,</hi> and that if the Par<g ref="char:EOLhyphen"/>liament do not take courſe with ſuch, they might pray that the Parliament would take courſe to pull downe the Churches.</p>
+            <p>
+               <hi>Oliven Haltham</hi> being ſworne ſaith, that Mr. <hi>Powell</hi> Vicar of <hi>Hardwick</hi> was in the year 1642. abſent from his pariſh of <hi>Hard<g ref="char:EOLhyphen"/>wick</hi> about 14 weekes together, and that during all that time they had but on Sermon in <hi>Hardwick</hi> Church, and that the Church doores were ſhut up moſt of that time.</p>
+            <p>
+               <hi>Daniell Wats</hi> of <hi>Hardwick</hi> being ſworne ſaith, that Mr. <hi>Ham</hi> Curate of <hi>Hardwick,</hi> was enforced to ſue Mr. <hi>Powell</hi> often for his Wages: and he hath heard Mr. <hi>Powels</hi> Curates often com<g ref="char:EOLhyphen"/>plaine for want of their pay from Mr. <hi>Powell.</hi>
+            </p>
+            <pb n="7" facs="tcp:29640:9"/>
+            <p> 
+               <hi>John Rogers</hi> and <hi>Thomas Rols</hi> both of <hi>Hardwick,</hi> being ſworne, ſay, that on Sunday the 16 of <hi>February</hi> laſt, they had neither Preaching nor Prayer in the pariſh Church of <hi>Hardwick;</hi> And they ſay, that on the ſaid day the Bell did ring in the morning, and almoſt the whole pariſh came to the Church, but had no Miniſter there: And they ſay, that the Clerke of the ſaid pa<g ref="char:EOLhyphen"/>riſh told them that Mr. <hi>Powell</hi> did appoint him to ring the Bell every Sabbath day, except he did hear from Mr. <hi>Powell</hi> to the contrary; and they ſay, that he rang the Bell twice accordingly, but Mr. <hi>Powell</hi> came not nor any elſe for him.</p>
+            <p>
+               <hi>Richard Watkins</hi> of <hi>Standiſh</hi> being ſworne, ſaith, that Mr. <hi>Pow<g ref="char:EOLhyphen"/>ell</hi> hath for many years laſt paſt, been very negligent in ſerving the Cure of <hi>Standiſh;</hi> and he ſaith that about three years ſince he gave out threatning ſpeeches againſt this deponents ſon <hi>Wil<g ref="char:EOLhyphen"/>liam Watkins,</hi> that if the ſaid <hi>William</hi> would not keepe his owne pariſh Church at <hi>Standiſh</hi> (he ſometimes going to other pariſh Churches by reaſon of Mr. <hi>Powels</hi> neglect) he would make him forſake the place of his abode: whereupon this deponent wiſhed him to queſtion thoſe that never come to any Church, mentio<g ref="char:EOLhyphen"/>ning one <hi>Henry Hall,</hi> and one or two more who did ſeldome go to any Church at all: To whom Mr. <hi>Powell</hi> anſwered, that if the ſaid <hi>Hall</hi> and the reſt do not come to his Church, yet they goe to no Church elſe, with which he the ſaid <hi>Powell</hi> ſeemed to be well pleaſed.</p>
+            <p>
+               <hi>Thomas Fowler</hi> of <hi>Standiſh</hi> being ſworne, ſaith, that the laſt ſummer Mr. <hi>Powell</hi> was abſent from all his Churches for about ten weekes together, and ſometimes they had Preaching in their Church at <hi>Standiſh,</hi> and ſometimes none.</p>
+            <p>2. To the ſecond Article <hi>Thomas Beard</hi> of <hi>Saul</hi> being ſworne, ſaith, that he hath diverſe times ſeene Mr. <hi>Powell</hi> ſit drinking in an Ale-houſe at <hi>Fromyload</hi> paſſage, and other places.</p>
+            <p>
+               <hi>John Niblet</hi> being ſworne, ſaith, that about ten years ſince, the ſaid Mr. <hi>Powell</hi> drew this deponent into an Ale-houſe, and cauſed him to drinke Beere and Wine, more then did him good.</p>
+            <p>
+               <hi>Nathaniel Knight</hi> of <hi>Arlingham</hi> being ſwore and examined, ſaith, that about five or ſix years ſince, he ſaw the ſaid Mr. <hi>Powell</hi> ſo drunke upon his horſe back, that he could ſcarce ſit upright up<g ref="char:EOLhyphen"/>on his horſe, and being Drunke he rod into an Ale-houſe at
+<pb n="8" facs="tcp:29640:10"/> 
+               <hi>Arlingham,</hi> and did drinke more Ale or Beere.</p>
+            <p>
+               <hi>Edward Norman</hi> of <hi>Haresfield</hi> being ſworne, ſaith, that he hath often ſeene Mr. <hi>Powell</hi> ſit drinking in Ale-houſes.</p>
+            <p>
+               <hi>Jane Mill</hi> of <hi>Standiſh,</hi> widow, being ſworne, ſaith, that ſhe hath diverſe times ſeen Mr. <hi>Powell</hi> ſit drinking very freely &amp; merrily at the Bull in <hi>Standiſh</hi> pariſh: And ſhe ſaith, that about ſix years ſince ſhe ſaw Mr. <hi>Powell</hi> at Sir <hi>Ralph Duttons</hi> houſe in <hi>Standiſh,</hi> and that the ſaid Mr. <hi>Powell</hi> (as this deponent heard) had dranke hard in Sir <hi>Ralphs</hi> Buttery: And ſhe ſaith, that as he ſate in the Buttery drinking with other company, he fell a vomiting; and within two houres after, when he came to himſelfe againe, he went home to his houſe.</p>
+            <p>
+               <hi>Thomas Parke</hi> of <hi>Whetenhurſt</hi> being ſworne, ſaith, that about three moneths ſince, he ſaw Mr. <hi>Powell</hi> drinking at <hi>Whetenhurſt,</hi> in <hi>Turberviles</hi> houſe, at the Inne there, and that he was drinking above an houre in this deponents ſight, and that he left him there, and how long he ſtaied there afterwards, he knowes not, and how long he was there before this examinant came he knowes not.</p>
+            <p>
+               <hi>Richard Paine</hi> of <hi>Hardwick</hi> being ſworne, ſaith, that about two years ſince he ſaw Mr. <hi>Powell</hi> ſit drinking in one <hi>Coopers</hi> houſe, an Ale-houſe in <hi>Haresfield;</hi> &amp; that Mr. <hi>Powell</hi> cauſed this examinant to drinke with him; and this examinant left him there drinking, and how long he ſtaied there he knowes not.</p>
+            <p>
+               <hi>Henry Wintle</hi> of <hi>Arlingham</hi> being ſworne, ſaith, that a little above foure years a goe, Mr. <hi>Powell</hi> being a Commiſſioner at <hi>Arlingham</hi> upon a Law ſuite, was ſo Drunke that he was not able to ſit on his horſe back; and being helped off his horſe by a man that ſtood by, he was not able (by reaſon he was Drunke) to get up againe: And he ſaith that he ſaw the ſaid Mr. <hi>Powell</hi> at the ſame time ſit drinking in two Ale-houſes in <hi>Arlingham</hi> ſix howers, and did drinke abundantly all that time till he was Drunke.</p>
+            <p>
+               <hi>William Harris</hi> of <hi>Hempſteed</hi> being ſworne, ſaith, that about foure years ſince, he ſaw Mr. <hi>Powell</hi> ſit reeling on his horſe back, betweene <hi>Glouceſter</hi> and <hi>Hempſteed,</hi> and he ſaith, that the ſaid <hi>Powell</hi> was once almoſt ready to fall off his horſe back; And he beleeves the ſaid Mr. <hi>Powell</hi> at the ſame time was either Drunke,
+<pb n="9" facs="tcp:29640:10"/> or Mad, but he rather beleeves he was Drunke.</p>
+            <p>3. 6. To the third and ſixth Articles, <hi>Robert Keylock</hi> of <hi>Hard<g ref="char:EOLhyphen"/>wick</hi> being ſworne, ſaith, that the ſaid Mr. <hi>Powell</hi> is much given to Buying and Selling; and that he bought the Reverſion of a Li<g ref="char:EOLhyphen"/>ving in <hi>Hardwick</hi> over this deponents head (this deponents life &amp; his wifes widdowes eſtate being in the ſaid Living) as this depo<g ref="char:EOLhyphen"/>nent was told by <hi>Nathaniell Hawkins</hi> of <hi>Elmore,</hi> and beleeves to be true. And he ſaith, that about eight years ſince, the ſaid Mr. <hi>Powell</hi> bought a Bond or Specialty of the ſaid <hi>Nathaniel Haw<g ref="char:EOLhyphen"/>kins,</hi> in which Bond this ſaid deponent ſtood bound to the ſaid <hi>Hawkins</hi> for 40. l. and was turned over to pay it to the ſaid <hi>Pow<g ref="char:EOLhyphen"/>ell,</hi> to this deponents intollerable loſſe and damage. And he ſaith, that the ſaid <hi>Powell</hi> is very contentious, and hath been much given to Law ſuits, and hath ſued this deponent for the money before mentioned, ſince he bought the ſaid debt or Specialty.</p>
+            <p>
+               <hi>John Niblet</hi> of <hi>Standiſh</hi> being ſworne, ſaith, that Mr. <hi>Powell</hi> hath, and doth ſpend moſt of his time in buying and ſelling, and medling in worldly matters.</p>
+            <p>
+               <hi>John Paine</hi> of <hi>Hardwick</hi> ſworne, ſaith, that Mr. <hi>Powell</hi> is much given to buying and ſelling of Land, and to Law ſuits, and a com<g ref="char:EOLhyphen"/>mon Commiſſioner, which renders him unfit for the worke of the Miniſtry.</p>
+            <p>
+               <hi>Rirchard Yealfe</hi> of <hi>Hardwick</hi> being ſworne, ſaith, that about a moneth ſince, Mr. <hi>Powell</hi> Preaching at <hi>Hardwick</hi> upon a Sabbath day in the afternoone, and Sermon being ended, this deponent deſired him to come to his houſe: and being come, he ſaw there one widdow <hi>Packer</hi> of <hi>Putley,</hi> and ſeeing her fell to threatning her, becauſe ſhe was behind for chiefe Rents of her Living in <hi>Putley,</hi> which Mr. <hi>Powell</hi> ſaid was due to him, and in a threatning manner told her, that halfe her Cattle would not (or but) make him ſatisfaction for her neglect: The which widow <hi>Packers</hi> Living was part of the bargaine that Mr. <hi>Powell</hi> bought of Sir <hi>Ralph Dutton.</hi> And being admoniſhed by this deponent for his threatning ſpeeches, it being the Sabbath day; he notwith<g ref="char:EOLhyphen"/>ſtanding continued threatning her till he went out of the houſe.</p>
+            <p>
+               <hi>Mary Packer</hi> of <hi>Putley</hi> widdow being ſworne, ſaith, that about the latter end of <hi>Aprill</hi> laſt, there came two Souldiers to this de<g ref="char:EOLhyphen"/>ponents houſe, &amp; diſtrained two of her Kine for Rent, which they
+<pb n="10" facs="tcp:29640:11"/> ſaid was due to Mr. <hi>Powell,</hi> and they ſaid that Mr. <hi>Powell</hi> ſent them to do it: And this deponent ſaith, that the ſaid two Souldiers drove her two Kine to Mr. <hi>Powels</hi> houſe, and kept them about two daies, and the deponents ſervants carryed them Fodder to Mr. <hi>Powels</hi> houſe or court: And this deponent ſaith, that about a moneth ſince ſhe being at <hi>Richard Yealfs</hi> houſe at <hi>Hardwick</hi> upon a Sabbath day, Mr. <hi>Powell</hi> being there, and ſeeing this deponent there, fell to threatning her for not paying her Rent to the ſaid Mr. <hi>Powell,</hi> and told her in a threatning manner, that halfe her Cattle would not ſatisfie him for her ſaid Rent; the Rent being the chief Rent of her Living, being part of the Lordſhip which Mr. <hi>Powell</hi> bought of Sir <hi>Ralph Dutton.</hi>
+            </p>
+            <p>
+               <hi>Joyce Gabb</hi> widow, and <hi>John Gabb</hi> of <hi>Haresfield</hi> ſay, that about five years ſince Mr. <hi>Powell</hi> cauſed <hi>Richard Gabb</hi> of <hi>Parkend</hi> in the County of <hi>Glouceſter,</hi> late husband to the ſaid <hi>Joyce Gabb,</hi> and a poore blind man to be Areſted upon a Writ, and brought him to <hi>Quedgley,</hi> and afterwards to <hi>Standiſh</hi> to an Ale-houſe there, to bring him to a compoſition: And the reaſon why he did ſo, was, becauſe he the ſaid <hi>Powell,</hi> would have cozened the ſaid <hi>Gabb</hi> out of his Living, for there were but two lives in the ſaid <hi>Gabbs</hi> Living, and Mr. <hi>Powell</hi> had bought one of the ſaid lives be<g ref="char:EOLhyphen"/>fore, and now in all likelyhood thought by this meanes to have had the other.</p>
+            <p>4. 6. To the fourth and ſixth Articles, <hi>Thomas Beard</hi> of <hi>Saul</hi> being ſworne, ſaith, that about 12 years ſince, the Miniſters houſe of <hi>Saul</hi> being decayed, the ſaid <hi>Powell</hi> turned it off to the pariſh (whereas before he tooke rent for it) whereupon the pa<g ref="char:EOLhyphen"/>riſhioners of <hi>Saul</hi> beſtowed in repairing the ſaid houſe about 10. and within a ſhort time after, the ſaid <hi>Powell</hi> did ſue <hi>Thomas Gree<g ref="char:EOLhyphen"/>ning</hi> (now deceaſed) being then a Churchwarden of <hi>Saul,</hi> for the ſaid houſe, and as the ſaid <hi>Greening</hi> confeſſed, cauſed him to ſpend about 40. s. in the ſaid ſuite, for deteining the ſaid houſe from him: and not long after the ſaid <hi>Powell</hi> had an order from Sir <hi>Nathaniel Brent,</hi> to take poſſeſſion of the ſaid houſe, and ſo had it from the pariſh againe.</p>
+            <p>
+               <hi>John Beard</hi> and <hi>John Ellis</hi> of <hi>Saul</hi> affirme the ſame.</p>
+            <p>
+               <hi>Anne Gabb</hi> of <hi>Standiſh</hi> widow being ſworne, ſaith, that Mr. <hi>Powell</hi> is a man very contentious, and given to Law ſuites,
+<pb n="11" facs="tcp:29640:11"/> and hath ſued this deponent, and cauſed her to ſpend moſt of her eſtate in Law ſuits: And about four years ſince, Mr. <hi>Powell</hi> ſent one of his daughters to this deponents houſe to tell her, that Mr. <hi>Powell</hi> her father had put Cattle in this deponents ground: whereupon this deponent going to ſee whether it were ſo or no, and comming to the ſaid ground, the ſaid <hi>Powell</hi> had there pro<g ref="char:EOLhyphen"/>vided two Bailiffs to Arreſt her: And ſaith, that Mr. <hi>Powell</hi> uſed this pollicy on purpoſe to Arreſt her: And that when they had Arreſted her, Mr. <hi>Powell</hi> refuſed to let her go upon Bayle, but ket her two dayes and a night as a priſoner, and made her pay all the charges of the Bayliffs before ſhe could be let goe, and af<g ref="char:EOLhyphen"/>terwards let her go upon her owne Bond: And ſhe ſaith that Mr. <hi>Powell</hi> through his violent proſecuting her by Law ſuits, coze<g ref="char:EOLhyphen"/>ned her out of 10. l. <hi>per an.</hi> becauſe ſhe was not able to defend her ſelfe in the ſaid ſuits, ſhe being a widow and not capable of Law ſuits. And ſhe ſaith, that Mr. <hi>Powell</hi> keeps away from her ſix Acres of ground by violence.</p>
+            <p>
+               <hi>Margery Knight,</hi> the wife of <hi>Nathaniel Knight</hi> of <hi>Arlingham</hi> being ſworne, ſaith, that about foure years ſince, ſhe ſaw Mr. <hi>Powell</hi> as ſhe beleeves, ſo drunke that he could ſcarce ſit upright on his horſe back: And ſhe ſaith, that Mr. <hi>Powell</hi> at the ſame time did leane over his horſe as if he had vomited: And ſhe ſaith, that as many as ſaw him at the ſame time, were ſorry to ſee a man of his coate ſo Drunke.</p>
+            <p>
+               <hi>Robert Chamles</hi> of <hi>Saul</hi> being ſworne, ſaith, that about a year ſince, he was ſent by the pariſhioners of <hi>Saul</hi> to Mr. <hi>Powell,</hi> to deſire his approbation for one Mr. <hi>Summers</hi> an honeſt Miniſter to have the Cure of <hi>Saul:</hi> And the ſaid Mr. <hi>Powell</hi> in anſwer, deſired this deponent to give the ſaid Mr. <hi>Summers</hi> all the encourage<g ref="char:EOLhyphen"/>ment that might be: and withall promiſed that the ſaid Mr. <hi>Sum<g ref="char:EOLhyphen"/>mers</hi> ſhould have the place if the pariſh of <hi>Saul</hi> would pay him their dues; And this deponent ſaith, that the next Sabbath day af<g ref="char:EOLhyphen"/>ter, the ſaid Mr. <hi>Powell</hi> (contrary to his former promiſe) ſent one Mr. <hi>Grime</hi> of <hi>Woodcheſter</hi> to ſerve the ſaid Cure: whereupon the pariſhioners of <hi>Saul,</hi> were enforced to Petition the Governour to have the ſaid Mr. <hi>Summers,</hi> to be their Miniſter, who granted it unto them.</p>
+            <p>5. To the fifth Article, <hi>Thomas Beard</hi> of <hi>Saul</hi> being ſworne,
+<pb n="12" facs="tcp:29640:12"/> ſaith, that Mr. <hi>Powell</hi> is very contentious, and hath been much given to Law ſuits, and hath ſued this deponent and diverſe others (as he hath heard) and he ſaith, that the ſaid Mr. <hi>Powell</hi> is very deceitfull in his dealings, as appears in that after this de<g ref="char:EOLhyphen"/>ponent had paid his money for Tythes, the ſaid Mr. <hi>Powell</hi> de<g ref="char:EOLhyphen"/>nied the receipt of the ſaid money, and cauſed this deponent to prove the payment of it by witneſſes.</p>
+            <p>
+               <hi>Edward Mill</hi> of <hi>Standiſh</hi> being ſworne, ſaith, that Mr. <hi>Powell</hi> is very contentious and given to Law ſuites, and that he ſued this deponents mother when as ſhe owed him nothing, and cauſed her to pawne her Coverlet from her bed to pay Fees, and that ſhe hath not redeemed her ſaid Coverlet to this day: And he ſaith, the ſaid Mr. <hi>Powell</hi> hath ſued this deponents mother, becauſe ſhe would not exchange foure Acres and a halfe of Land for three Acres and a halfe of Mr. <hi>Powels.</hi>
+            </p>
+            <p>
+               <hi>Richard Cowly</hi> of <hi>Standiſh</hi> being ſworne, ſaith, that Mr. <hi>Powell</hi> is a man very contentious and given to Law ſuites, and ſaith, that the ſaid <hi>Powell</hi> ſued this deponent, and cauſed him to ſpend money upon an unjuſt ſuite.</p>
+            <p>
+               <hi>Edward Norman</hi> of <hi>Haresfield</hi> being ſworne, ſaith, that Mr. <hi>Powell</hi> is a man very contentious, and given to over reach his neighbours in bargaining: And he ſaith, that about 12 years ſince he tooke Land to halves of Mr. <hi>Powell,</hi> and after he had beſtowed a whole ſummers worke in plowing and earing the ſaid Land, and making it ready to be ſowed, he the ſaid Mr. <hi>Powell</hi> enforced this deponent to yeild up his bargaine, without giving him any ſatisfaction for all his charge and paines.</p>
+            <p>6. To the ſixth Article, <hi>Edward Mill</hi> of <hi>Standiſh</hi> being ſworne, ſaith, that Mr. <hi>Powell</hi> is a man deceitfull in his dealings, and gi<g ref="char:EOLhyphen"/>ven to over-reach and deceive in bargaining.</p>
+            <p>8. To the eighth Article, <hi>William Turner</hi> of <hi>Standiſh</hi> being ſworne, ſaith, that the laſt ſummer Mr. <hi>Powell</hi> was abſent from all his Churches or Cures for 10 or 12 weekes together, or there about; and that during that time they had neither Preaching nor Prayers in <hi>Standiſh</hi> Church, for three Sabbath dayes and one Faſt day, and the laſt Sabbath day they had no Preaching nor Prayers in the afternoone.</p>
+            <p>
+               <hi>Michael Niblet</hi> of <hi>Standiſh</hi> being ſworne, ſaith, that Mr. <hi>Powell</hi>
+               <pb n="13" facs="tcp:29640:12"/> was abſent from his foure Churches the laſt Summer, from the beginning of <hi>May,</hi> to the end of <hi>July</hi> then next following, and he ſaith, that he being Clerke to Mr. <hi>Powell</hi> at <hi>Standiſh,</hi> knew not of any Miniſter that Mr. <hi>Powell</hi> provided to ſerve the Cure at <hi>Standiſh</hi> in his abſence: And he ſaith, that during the time of Mr. <hi>Powels</hi> abſence, he did ring the Bell in <hi>Standiſh</hi> Church two Sabbath dayes, expecting to have Preaching or Prayers, but had none at all.</p>
+            <p>9. To the ninth Article, Mr. <hi>George Ven</hi> now Miniſter at <hi>Whe<g ref="char:EOLhyphen"/>tenhurſt</hi> being ſworne, ſaith, that about Midſommer laſt, he was placed by the Committee to ſerve the Cure of <hi>Hardwick</hi> in Mr. <hi>Powels</hi> abſence (they being in diſtreſſe for want of a Miniſter) and that he ſerved the ſaid Cure ſeven or eight weekes: And he ſaith, that Mr. <hi>Powell</hi> when he came home, turned out this de<g ref="char:EOLhyphen"/>ponent, contrary to the Committees order, and hath not yet gi<g ref="char:EOLhyphen"/>ven him any ſatisfaction for ſerving the ſaid Cure.</p>
+            <p>10. To the tenth Article, Mr. <hi>Ven</hi> ſaith (being ſworne) that after he had ſerved the ſaid Cure ſeven or eight weekes, Mr. <hi>Powell</hi> came from <hi>London,</hi> and ſhewed this deponent an Order or Let<g ref="char:EOLhyphen"/>ter under the hands of <hi>Nathaniel Stephens,</hi> and <hi>Edward Stephens</hi> Eſquires &amp; one Parliament man more, but refuſed to let this depo<g ref="char:EOLhyphen"/>nent read the ſaid Letter or Order, but ſaid the ſubſtance of it was, that he ſhould take the Cure of <hi>Hardwick</hi> into his owne hands.</p>
+            <p>11. To the eleventh Article, <hi>Richard Cowly</hi> of <hi>Standiſh</hi> being ſworne, ſaith, that upon the laſt Faſt day being the 27 of <hi>Novemb.</hi> 
+               <note n="†" place="margin">This <hi>Smith</hi> was proved be<g ref="char:EOLhyphen"/>fore the Com<g ref="char:EOLhyphen"/>mittee to be a common Swea<g ref="char:EOLhyphen"/>rer, a Drunkard, a Blaſphemer, a common Gameſter, a whoremonger, and a man ill affected to the Parliament: for which crimes he was Ejected by the Committee, Mr. <hi>Powell</hi> be<g ref="char:EOLhyphen"/>ing preſent.</note> Mr. <hi>John Smith</hi> of <hi>Rendwick</hi> Preached in Mr. <hi>Powels</hi> Church at <hi>Standiſh,</hi> the ſaid Mr. <hi>Smith</hi> being Ejected by this Committee the day before, being the 26 day of <hi>Novemb.</hi> laſt.</p>
+            <p>
+               <hi>Thomas Fowler</hi> of <hi>Standiſh</hi> being ſworne, ſaith, that Mr. <hi>John Smith</hi> of <hi>Rendwick</hi> Preached in Mr. <hi>Powels</hi> pariſh Church at <hi>Standiſh</hi> upon the laſt Faſt day being the 27 of <hi>November,</hi> or up<g ref="char:EOLhyphen"/>on the Sabbath day after, being the firſt of <hi>December</hi> laſt as he re<g ref="char:EOLhyphen"/>members.</p>
+            <p>
+               <hi>William Turner</hi> being ſworne affirmes the ſame.</p>
+            <p>
+               <hi>Michaell Niblet</hi> being ſworne, ſaith, that Mr. <hi>Smith</hi> of <hi>Rend<g ref="char:EOLhyphen"/>wick</hi> Preached in <hi>Standiſh</hi> Church the laſt Faſt day, being the 27 of <hi>November</hi> laſt.</p>
+            <p>12. To the twelfth Article, <hi>John Niblet</hi> of <hi>Standiſh</hi> being
+<pb n="14" facs="tcp:29640:13"/> ſworne, ſaith, that Mr. <hi>Powell</hi> hath divers times preſented this deponent in the <hi>Conſiſtory Court</hi> for going to hear Mr. <hi>Capel;</hi> and hath threatned to have him in the <hi>High Commiſſion Court</hi> for ſo doing: And that Mr. <hi>Powell</hi> preſented this deponents wife in the ſaid <hi>Conſiſtory</hi> for ſtaying at home one Sabbath day af<g ref="char:EOLhyphen"/>ter noone; And Mr. <hi>Powels</hi> man ſaid, his Maſter did it becauſe he thought ſhe had been gone to <hi>Eaſtington</hi> to Church: And he ſaith, that Mr. <hi>Powell</hi> hath cauſed this deponent and his wife to be Excommunicate: And ſaith, that he is a man notoriouſly knowne to be falſe in his dealings; and is uſually more conver<g ref="char:EOLhyphen"/>ſant with Drunkards and Uſurers, then with good Chriſtians, and therefore an unworthy man to be a Miniſter.</p>
+            <p>
+               <hi>John Window</hi> of <hi>Standiſh</hi> being ſworne, ſaith, that about nine years ſince, Mr. <hi>Powell</hi> cauſed this deponent and about 20 per<g ref="char:EOLhyphen"/>ſons of <hi>Standiſh</hi> pariſh to be preſented in the <hi>Conſiſtory</hi> for not comming to his Church, they going to another pariſh to hear Sermons, when as in their owne pariſh of <hi>Standiſh</hi> they were ſometimes neglected at leaſt once a Sabbath. <note place="margin">18 <hi>Decemb.</hi> 1644.</note>
+            </p>
+            <p>14. To the fourteenth Article, <hi>Thomas Vick</hi> of <hi>Hardwick</hi> be<g ref="char:EOLhyphen"/>ing ſworne, ſaith, that a little after <hi>Nathaniel Knight</hi> had been examined before the Committee about Mr. <hi>Powell,</hi> the ſaid <hi>Powell</hi> in the hearing of this deponent, gave out threatning ſpee<g ref="char:EOLhyphen"/>ches againſt the ſaid <hi>Nathaniel Knight,</hi> ſaying, he would have his ears nayled to the Pillory.</p>
+            <p>
+               <hi>Nathaniel Knight</hi> being ſworne, ſaith, that he having been for<g ref="char:EOLhyphen"/>merly ſummoned by warrant from this Committee, to teſtifie the truth of his knowledge concerning Mr. <hi>Powell,</hi> and having teſti<g ref="char:EOLhyphen"/>fied accordingly: About a weeke after Mr. <hi>Powell</hi> meeting this deponent in <hi>Glouceſter,</hi> told him he would make him repent his oath taken againſt him.</p>
+            <p>15. To the fifteenth Article, <hi>Anne Parre</hi> of <hi>Whetenhurſt</hi> aged 11 years, ſaith, that about three moneths ſince, Mr. <hi>Powell</hi> came to <hi>Whetenhurſt</hi> Inne, and two others with him, and ſtaied there almoſt two dayes and a whole night, and was there drink<g ref="char:EOLhyphen"/>ing part of the time.</p>
+            <p>
+               <hi>James Perry</hi> of <hi>Standiſh Morton</hi> being ſworne, ſaith, that ſince <hi>Michaelmas</hi> laſt he comming to the Inne at <hi>Whetenhurſt;</hi> the Inne-keepers wife told him that Mr. <hi>Powell</hi> and an Inne-keeper
+<pb n="15" facs="tcp:29640:13"/> of <hi>Barkley</hi> and others were there: And the next day after, this depo<g ref="char:EOLhyphen"/>nent comming to the ſame Inne, the ſaid Inne-keepers wife told him, that Mr. <hi>Powell</hi> had continued in the ſaid Inne from about 10 of the clock the day before, till 2 of the clock that preſent day; and that the ſaid <hi>Powell</hi> and the reſt, had been drinking in the ſaid Inne.</p>
+            <p>
+               <hi>Margery</hi> the wife of <hi>George Turbervile</hi> of <hi>Whetenhurst</hi> Innekeeper, being ſworne, ſaith, that about <hi>Michaelmas</hi> laſt Mr. <hi>Powell</hi> came into the Inne at <hi>Whetenhurſt,</hi> and there ſate drinking with other company (as this deponent beleeves;) And ſhe ſaith that he continued there from about 10 or 11 of the Clock, till the next day after about twelve of the clock.</p>
+            <p>16. To the ſixteenth Article, <hi>William Mill</hi> of <hi>Haresfield</hi> being ſworne, ſaith, that about a year and three quarters ſince, he being a fer<g ref="char:EOLhyphen"/>vant in Mr. <hi>Powels</hi> houſe, did for three Sabbath dayes together with a Waine and a Yoake of Oxen, carry certaine Loades of Mr. <hi>Powels</hi> Hay to fodder his Cattle, in a ground of the ſaid Mr. <hi>Powels:</hi> And he ſaith, that the firſt of the three Sabbaths Mr. <hi>Powell</hi> knew not of it; but the other two (he beleeves) the ſaid Mr. <hi>Powell</hi> did know of it.</p>
+            <p>
+               <hi>Edward Mill</hi> of <hi>Standiſh</hi> being ſworne, ſaith, that about two years ſince, he ſaw Mr. <hi>Powels</hi> Teeme carry Hay upon a Sabbath day, about a quarter of a mile.</p>
+            <p>2. And he ſaith, that he hath ſeene Mr. <hi>Powell</hi> ſit drinking in the Inne at little <hi>Haresfield,</hi> above forty and twenty times.</p>
+            <p>
+               <hi>Nathaniel Shatford</hi> of <hi>Standiſh</hi> being ſworne, ſaith, that about two years ſince, he ſaw Hay carryed upon a Sabbath day morning: And he ſaith, he knowes not whether it were Mr. <hi>Powels</hi> Teeme that carried it: For he ſaith, that ſometimes it was Mr. <hi>Powels</hi> Teeme, and ſometimes Captaine <hi>Bayleys</hi> his ſon-in-law.</p>
+            <p>17. To the ſeventeenth Article, <hi>George Wild, William King,</hi> and <hi>Jo<g ref="char:EOLhyphen"/>ſeph Probert,</hi> three of Captaine <hi>Singletons</hi> Company, informe that about three weekes ſince, they having diſtrained Mr. <hi>Powels</hi> Cattle for Contribution money: The ſaid <hi>Powell</hi> fell a railing at the Committee, and ſaid, <hi>he would make them aſhamed of it when he came to</hi> London, <hi>and for keeping away his Rent, and that</hi> Mr. Sheppard <hi>was his only enemy, and that the Committee kept away</hi> 16. l. <hi>of his money from him.</hi>
+            </p>
+            <p>
+               <hi>Item,</hi> About 3 or 4 dayes after this, the ſaid Mr. <hi>Powell</hi> being before the Committee to have his Cattle againe, which they refuſing to grant, till he had paid his Contribution money for which they were diſtrai<g ref="char:EOLhyphen"/>ned: The ſaid Mr. <hi>Powell</hi> ſaid, he never found ſuch dealing from the Cavaliers. 10 <hi>Feb.</hi> 1644.</p>
+            <pb n="16" facs="tcp:29640:14"/>
+            <p> Alſo Mr. <hi>Powell</hi> ſaid before the Committee, that Mr. <hi>Sheppard</hi> of the Committee did alwayes ſpeake as an adverſary in his buſineſſe, and not as a Judge.</p>
+            <p>Alſo he ſaid, that if there be five Articles exhibited againſt himſelfe, he the ſaid <hi>Powell</hi> hath ten Articles againſt Mr. <hi>Sheppard.</hi>
+            </p>
+            <p>
+               <hi>Daniel Guilliam</hi> of <hi>Rendwick</hi> being ſworne, ſaith, that about foure moneths ſince, Mr. <hi>Smith</hi> of <hi>Rendwick</hi> being queſtioned before the Committee for a ſcandalous Miniſter; and this deponent having be<g ref="char:EOLhyphen"/>fore been called before the Committee as a witneſſe againſt Mr. <hi>Smith:</hi> The ſaid Mr. <hi>Powell</hi> came to this deponent, and would have him and the reſt of the pariſhioners of <hi>Rendwick</hi> to Petition the Committee on the behalfe of the ſaid <hi>Smith,</hi> that he might ſtay at <hi>Rendwick</hi> till S. <hi>Ma<g ref="char:EOLhyphen"/>ry</hi> day, to take up a quarters pay, and his Eaſter booke: which this de<g ref="char:EOLhyphen"/>ponent refuſed to do: whereupon Mr. <hi>Powell</hi> ſpake to this deponent to this effect, <hi>viz. Suppoſe the Kings Army ſhould come into this Country againe, as it is like enough it will be ſo; what will you do if</hi> Mr. Smith, <hi>or ſome friend of his, ſhould come on his behalfe?</hi>
+            </p>
+            <p>18. To the eighteenth Article, <hi>Edward Mill</hi> of <hi>Standiſh</hi> being ſworne, ſaith, that on the 26 day of <hi>March</hi> laſt, as this deponent was diging in his owne ground; Mr. <hi>Powell</hi> and three men more came up<g ref="char:EOLhyphen"/>on him in a violent manner, and Mr. <hi>Powell</hi> with his owne hands ſmote this deponent on the face with his fiſt, and tare his doublet and hoſe; and told this deponent that he had not cared if he had killed him.</p>
+            <p>19. To the ninteenth Article, <hi>John Rogers</hi> of <hi>Hardwick</hi> being ſworne, ſaith, that about ſeven years ſince, he being Overſeeer of the poor of the pariſh of <hi>Hardwick,</hi> and comming to Mr. <hi>Powell</hi> to demand of him his dues to the poor of the ſaid pariſh: he the ſaid <hi>Powell</hi> anſwered, he had no money: This deponent replying, told him, he muſt pay accor<g ref="char:EOLhyphen"/>ding to the Statute, whereupon Mr. <hi>Powell</hi> ſaid, that if he would have money according to the Statute, then you muſt have Sermons accor<g ref="char:EOLhyphen"/>ding to the Statute, that is, once a moneth, or words to the like effect.</p>
+            <p>Mr. <hi>John Lygon</hi> of <hi>Painſwick</hi> informeth, and ſaith upon oath, that about five years ſince, there was a ſuit in the <hi>High Commiſſion</hi> Court, depending between Mr. <hi>Wild</hi> and Mr. <hi>Acſon,</hi> ſometimes Vicars of <hi>Painſ<g ref="char:EOLhyphen"/>wick.</hi> And they had a Commiſſion to examine witneſſes in the Coun<g ref="char:EOLhyphen"/>try; Mr. <hi>Powell</hi> was Mr. <hi>Acſons</hi> Commiſſioner, and Mr. <hi>Wild</hi> had di<g ref="char:EOLhyphen"/>verſe witneſſes from <hi>Painſwick;</hi> and when any was examined who was a conſcientious man, Mr. <hi>Powell</hi> with croſſe interrogatories did en<g ref="char:EOLhyphen"/>deavour to diſparage his teſtimony; asking him whether ever he were at any Conventicles? whether he did kneele at the Sacrament? with
+<pb n="17" facs="tcp:29640:14"/> diverſe other like queries touching Biſhops and the Ceremonies.</p>
+         </div>
+         <div type="testimonies">
+            <head>
+               <hi>Teſtimonies of witneſſes on the behalfe of</hi> Walter Powell <hi>Clerke,</hi> 7 <hi>Jan.</hi> 1644.</head>
+            <p>
+               <hi>Walter Powell</hi> the ſon of <hi>Walter Powell</hi> Clerke, ſaith upon oath, that at the time of the Siege againſt <hi>Glouceſter,</hi> Mr. <hi>Powell</hi> his father had foure Oxen taken from him by the Kings Army, by warrant from the Lord <hi>Forth.</hi> And this examinants mother ſpeaking to one of her friends to ſpeake to a Gentleman of the Kings Army, that Mr. <hi>Powell</hi> may have the Oxen againe: the ſaid Gentleman promiſed he would doe his endeavour therein upon two conditions: Firſt that Mr. <hi>Powell</hi> ſhould enter into Bond to bring his ſon-in-law Captaine <hi>Baily</hi> (a Cap<g ref="char:EOLhyphen"/>taine of the Parliament Army) into the Kings Army. Secondly, that he ſhould take an Oath never to pray for the Parliament againe. To which the ſaid Mr. <hi>Powell</hi> anſwered to the ſaid friend: To the firſt (ſaid he) how ſhall I enter into Bond to performe impoſſibilities? To the ſe<g ref="char:EOLhyphen"/>cond he anſwered: The Sun is the Sun though it be ſometimes Eclip<g ref="char:EOLhyphen"/>ſed: The Parliament is the Parliament what ever the ſucceſſe be: Have I ſtood for the Parliament thus long, and ſhall I now decline? ſhall I wrong my conſcience or damne my ſoule to get four Oxen? I will ne<g ref="char:EOLhyphen"/>ver do it while I live: And ſo he heard no more of his Oxen.</p>
+            <p>
+               <hi>Francis Yeat</hi> of the pariſh of <hi>Haresſield,</hi> ſaith, that what <hi>Walter Powell</hi> hath depoſed touching Mr. <hi>Powell</hi> his fathers anſwer to the two queſtions aforeſaid, is true in all points.</p>
+            <p>
+               <hi>Robert Bright</hi> of <hi>Haresfield,</hi> Clerke, teſtifieth, that at the time of the Siege againſt <hi>Glouceſter,</hi> the ſaid deponent being at the houſe of <hi>Walter Powell</hi> Vicar of <hi>Standiſh,</hi> there was one <hi>William Rogers</hi> Conſtable or Tythingman of the pariſh of <hi>Standiſh,</hi> who by virtue of a Warrant had ſeized upon foure Oxen and a Waine of the ſaid <hi>Walter Powels:</hi> the Warrant as far as this deponent remembreth, came from the Lord <hi>Forth,</hi> or <hi>Troth.</hi> And this deponent having ſome Corne ready to carry, borrowed of the ſaid Conſtable or Tythingman <hi>Rogers,</hi> the ſaid Oxen and Waine for that afternoone, conditionally that both Oxen &amp; Waine ſhould be delivered ſafely that night at <hi>Standiſh</hi> Court, which the ſaid deponent did performe: And upon the entreaty of the ſaid <hi>Walter Powels</hi> wife, the ſaid deponent did endeavour the regaining of his ſaid Oxen, and preſervation of other Cattle, which he the ſaid <hi>Walter</hi> after<g ref="char:EOLhyphen"/>wards loſt: But in regard he was abſent from his houſe, he was taxed for a Rebell; and one Captaine <hi>Hanbury</hi> which quartered at this de<g ref="char:EOLhyphen"/>ponents houſe, did ſay he did beleeve he would be enjoyned to
+<pb n="18" facs="tcp:29640:15"/> bring his ſon-in-law <hi>Bailey,</hi> and not to pray for the Parliament, or words to that effect: But this deponent never upon diſcourſe betwixt them, could ever find the ſaid <hi>Powell</hi> halting from the Parliament, but al<g ref="char:EOLhyphen"/>wayes for it.</p>
+            <div type="days_events">
+               <head>8 <hi>Februarii,</hi> 1644.</head>
+               <p>A Warrant was ſent out to call in Mr. <hi>Powell</hi> to anſwer to the Ar<g ref="char:EOLhyphen"/>ticles, and depoſitions exhibited againſt him, upon Monday next the 10 of <hi>February.</hi>
+               </p>
+            </div>
+            <div type="days_events">
+               <head>10 <hi>Februarii,</hi> 1644.</head>
+               <p>Upon which day Mr. <hi>Powell</hi> in perſon appearing before the Com<g ref="char:EOLhyphen"/>mittee: And being by them required to anſwer to the Articles exhibi<g ref="char:EOLhyphen"/>ted againſt him; he refuſed ſo to doe, and ſaid he had an Order from the Committee, that before he had put in his anſwer to the ſaid Arti<g ref="char:EOLhyphen"/>cles, he ſhould have a Copy of the depoſitions of the witneſſes that had ſworne againſt him; and ſaid, he would not otherwiſe anſwer, till he had the Copy of the ſaid depoſitions.</p>
+               <p>It was thereupon ordered by the Committee, that Mr. <hi>Powell</hi> ſhall appear at Mr. <hi>Lanes</hi> houſe, near the Kings Board in <hi>Glouceſter,</hi> to mor<g ref="char:EOLhyphen"/>row in the afternoone by two of the clock, to anſwer to the Articles exhibited againſt him, elſe the Committee to proceed againſt him ac<g ref="char:EOLhyphen"/>cording to the proofs.</p>
+            </div>
+            <div type="days_events">
+               <head>11 <hi>Februarii,</hi> 1644.</head>
+               <p>At which day and time Mr. <hi>Powell</hi> appeared not according to the former order, but Mr. <hi>Dorney</hi> the Towne-clerke appearing for him, moved the Committee to grant him a longer day to put in his anſwer, and to have a Copy of the depoſitions of the witneſſes.</p>
+               <p>It was thereupon ordered by the Committee that Mr. <hi>Powell</hi> ſhall have a Copy of the Articles exhibited againſt him if he deſire it, and that he have time till Saterday night next to put his anſwer in writing to the ſaid Articles; elſe the Committee to proceed againſt him ac<g ref="char:EOLhyphen"/>cording to the proofs.</p>
+               <p>It was then alſo ordered that Wedneſday the 19 of this inſtant <hi>Febr.</hi> be the peremptory day for the hearing of Mr. <hi>Powels</hi> cauſe at Mr. <hi>Lanes</hi> houſe aforeſaid, by nine of the clock in the morning: And that the witneſſes on both ſides do appear <hi>viva voce</hi> at the ſame time, and a Warrant to iſſue forth to ſummon them to appear accordingly.</p>
+            </div>
+            <div type="days_events">
+               <pb n="19" facs="tcp:29640:15"/>
+               <head>19 <hi>Februarii,</hi> 1644.</head>
+               <p>This day Mr. <hi>Powels</hi> cauſe being to be heard, Mr. <hi>Powell</hi> appeared not according to the laſt Order of the Committee, whereupon the Committee proceeded to the examination of the witneſſes: and as the cauſe and witneſſes were in examination before them, <hi>William Powell</hi> the ſon of Mr. <hi>Walter Powell</hi> aforeſaid came in where the Committee ſate, and told them his father was gone to <hi>London,</hi> and had ſent an Appeale by him to the Committee; And being asked when he ſaw his father laſt, and when his father delivered him the ſaid Appeale? he anſwered, that he had not ſeen his father ſince that day ſeven night, and that he ſaw him then at <hi>Leonard Stanley,</hi> where his ſaid father delivered him the ſaid Appeale: A Copy whereof here fol<g ref="char:EOLhyphen"/>loweth.</p>
+               <p>Whereas there are Articles of Scandall preferred againſt me <hi>Walter Powell</hi> Maſter of Arts, Vicar of <hi>Standiſh,</hi> with the Chappels thereunto belonging: And the ſame Ar<g ref="char:EOLhyphen"/>ticles are proſecuted by the inſtigation of Malignants: and the Committee of <hi>Glou<g ref="char:EOLhyphen"/>ceſter,</hi> by Warrant under their hands, did promiſe and conclude, that I ſhould have the Copy of the depoſitions exhibited againſt me, reſerving the names of the depo<g ref="char:EOLhyphen"/>nents, and now have denied the ſame unto me: And the High Court of Parliament having promiſed that ſuch as have been eminent in Action, and Suffering, and ſo continued conſtant, ſhould not be ſlighted, but honoured and rewarded.</p>
+               <p>I therefore do Appeale from the cenſure of the Committee at <hi>Glouceſter</hi> for many good cauſes; and do demand, that the publique Notary or Clerke of the ſaid Com<g ref="char:EOLhyphen"/>mittee, do enter this my Appeale to the High Court of Parliament. In witneſſe whereof I have put to my hand, this 18 day of <hi>Febr,</hi> 1644.</p>
+               <p>
+                  <hi>Walter Powell.</hi>
+               </p>
+               <p>Ordered the ſame day by the Committee, that the cauſe of Mr. <hi>Powell</hi> be put off till Satturday the 22 of this inſtant <hi>Febr.</hi> at eight of the clock in the morning, at Mr. <hi>Lanes</hi> houſe: And that notice be ſent to Mr. <hi>Powell</hi> that he be then there; and a War<g ref="char:EOLhyphen"/>rant to be ſent out, requiring the moſt materiall witneſſes that have not appeared this day, to be then preſent in perſon to give their evidence <hi>viva voce,</hi> to the end that a finall ſentence may be given in the ſaid cauſe.</p>
+            </div>
+            <div type="days_events">
+               <head>22 <hi>Februarii,</hi> 1644.</head>
+               <p>
+                  <hi>William Watkins</hi> of <hi>Standiſh</hi> informeth upon oath, that upon Thurſday morning laſt, he left at Mr. <hi>Powels</hi> houſe an order from the Committee, wherein the ſaid <hi>Pow<g ref="char:EOLhyphen"/>ell</hi> was required to appear before the Committee this preſent day, to hear the finall de<g ref="char:EOLhyphen"/>termination of his cauſe.</p>
+               <p>At which day diverſe witneſſes being examined <hi>viva voce,</hi> by the Committee: It was ordered that the cenſure in Mr. <hi>Powels</hi> cauſe be reſpited till Tueſday next, eight of the clock in the morning; Then all the Members of the Committee who have been at the hearing of the cauſe this day to meet, that ſo in the interim, a more ſerious and deliberate conſideration may be had thereof, the proofs having been fully heard this day, and before, and Mr. <hi>Powell</hi> ſummoned to appear before the Committee, to at<g ref="char:EOLhyphen"/>tend the ſaid cenſure this day but came not.</p>
+               <list>
+                  <head>Preſent</head>
+                  <item>Mr. <hi>Mayor.</hi>
+                  </item>
+                  <item>Mr. <hi>Kyrle.</hi>
+                  </item>
+                  <item>Mr. <hi>Fettiplace.</hi>
+                  </item>
+                  <item>Mr. <hi>Wood.</hi>
+                  </item>
+                  <item>Mr. <hi>Clifford.</hi>
+                  </item>
+                  <item>Mr. <hi>Sheppard.</hi>
+                  </item>
+                  <item>Mr. <hi>Jones.</hi>
+                  </item>
+                  <item>Mr. <hi>Fowler.</hi>
+                  </item>
+                  <item>Mr. <hi>Catchmay.</hi>
+                  </item>
+               </list>
+            </div>
+         </div>
+         <div type="petition">
+            <pb facs="tcp:29640:16"/>
+            <head>25 <hi>Febr.</hi> 1644. <hi>To the Honourable Committee by Ordinance of Parliament for</hi> Gloceſter, Heref. <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <hi>The Humble Petition of diverſe of the Inhabitants of</hi> Standiſh, Hard<g ref="char:EOLhyphen"/>wick, Rendwick, <hi>and</hi> Saul.</p>
+            <p>
+               <hi>Sheweth,</hi>
+            </p>
+            <p>THat the ſaid ſeverall Pariſhes, or places, doe conſiſt of many people; and that M. <hi>Walter Powell</hi> hath for above 20 yeares paſt, been Vicar of the ſaid Pariſhes, whereby the Cure of the Soules of all the ſaid Pariſhoners have been under his Charge: The profits whereof, (as is conceived) have been worth about 200l. <hi>per annum,</hi> for the recompence of ſerving the ſaid Cures. Notwithſtanding, the ſaid M. <hi>Powell</hi> hath, for a great part of the ſaid time exceedingly neglected the Cure of the ſoules of the ſaid people in the diſcharge of his duty in the ſaid places: And ſometimes the ſaid Churches have been voide, and had no Miniſter for many Sab<g ref="char:EOLhyphen"/>bath dayes together, not ſo much as to read Prayers. And when the Inhabitants of ſome of the ſaid Pariſhes have procured an able Miniſter among them; The ſaid M. <hi>Powell</hi> hath refuſed to allow them a competent maintenance for their ſupport, whereby they have been forced to leave the ſaid places: And to the knowledge of moſt of us, ſome of the ſaid Pariſhes have been neglected ten or twelve weekes toge<g ref="char:EOLhyphen"/>ther, And have ſometimes been ſerved (to many of our knowledges) by ignorant, ſcandalous, and wandring perſons, ſuch as the ſaid M. <hi>Powell</hi> could gain beſt cheap; And ſcarce at any time have the ſaid Cures been long ſerved in an orderly way, whereby many of the ſaid Pariſhoners have been forced to goe to other Pariſhes for performance of their ſervices to the Lord: All which have been an exceeding bur<g ref="char:EOLhyphen"/>then and grievance to the ſaid Pariſhioners. For redreſſe whereof, (to ſome of us known) a petition hath been exhibited unto the Honourable Parliament, &amp; ſince to the Honourable Governour of <hi>Gloceſter,</hi> but by reaſon of the preſent diſtractions, your Petitioners have not (as yet) obtained any relief in this Caſe.</p>
+            <p>The premiſes conſidered, your Petitioners humbly deſire, that you will be pleaſed to execute the power which the Honourable Parliament have entruſted you withall in this Caſe, for the Soules comfort of your Petitioners,</p>
+            <p>
+               <hi>And they ſhall ever pray.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Will: Andrews.</item>
+                     <item>Henry Robins.</item>
+                     <item>Richard Yealf.</item>
+                     <item>Joſeph Ellis.</item>
+                     <item>John Bainham.</item>
+                     <item>Richard Dowding.</item>
+                     <item>Thomas Brether.</item>
+                     <item>Jo: Merriman.</item>
+                     <item>James Haines.</item>
+                     <item>Thomas Pride.</item>
+                     <item>John Beard.</item>
+                     <item>Alice Tovie.</item>
+                     <item>Elizabeth Jones.</item>
+                     <item>Anne Bohan.</item>
+                     <item>Thomas Beard.</item>
+                     <item>John Kylock.</item>
+                     <item>John Niblet.</item>
+                     <item>George Stratford.</item>
+                     <item>William Chew.</item>
+                     <item>John Eliots.</item>
+                     <item>Daniel Gwilliam.</item>
+                     <item>Edmund Alen.</item>
+                     <item>John Spencer.</item>
+                     <item>John Barnard.</item>
+                     <item>Henry Nicholſon.</item>
+                     <item>William Balden.</item>
+                     <item>Elizabeth Watkins.</item>
+                     <item>Elizabeth Balden.</item>
+                     <item>Daniel Wats.</item>
+                     <item>Thomas Rolls.</item>
+                     <item>Lewis Harris.</item>
+                     <item>Rebcceab Keylock.</item>
+                     <item>John Window.</item>
+                     <item>John Barnard.</item>
+                     <item>Thomas Mills.</item>
+                     <item>Anne Packer</item>
+                     <item>Edith Beard.</item>
+                     <item>Thomas Pride.</item>
+                     <item>Anne Haines.</item>
+                     <item>John Paine.</item>
+                     <item>Samuell Smith.</item>
+                     <item>William Pello.</item>
+                     <item>John Merret.</item>
+                     <item>John Rogers.</item>
+                     <item>William Whichurch.</item>
+                     <item>Giles Wyman.</item>
+                     <item>Elizabeth Beard.</item>
+                     <item>William Trevis.</item>
+                     <item>Richard Harris.</item>
+                     <item>Natha: Greneing.</item>
+                     <item>Richard Watkins.</item>
+                     <item>Joſeph Greening.</item>
+                     <item>Richard Paine.</item>
+                     <item>Robert Chamneys.</item>
+                     <item>John Croome.</item>
+                     <item>Dorothy Nichalſon.</item>
+                     <item>Thomas Beard.</item>
+                     <item>Thomas Dowding.</item>
+                     <item>John Ellis.</item>
+                     <item>Walter Fryer,</item>
+                     <item>John Beard.</item>
+                     <item>William Beard.</item>
+                     <item>Edmund Beard.</item>
+                     <item>Samuel Beard.</item>
+                     <item>Nich: Proſſer.</item>
+                     <item>Alice Chew.</item>
+                     <item>Thomas Allen.</item>
+                     <item>Thomas Wintle.</item>
+                     <item>Mary Beard.</item>
+                     <item>Thomas Robins.</item>
+                     <item>Anthony Ruſſell.</item>
+                     <item>Edith Wirtle.</item>
+                     <item>Robert Waite.</item>
+                     <item>Thomas Morweut.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="order">
+            <pb n="21" facs="tcp:29640:16"/>
+            <head>
+               <hi>Die Martis,</hi> 25. <hi>Feb.</hi> 1644.</head>
+            <p>FOraſmuch as upon Complaint made to this Committee againſt <hi>Walter Powel</hi> Clerk, Vicar of the Pariſh Church of <hi>Standiſh,</hi> and the Chappels or Pariſh Churches of <hi>Hardwick, Rendwick,</hi> and <hi>Saul;</hi> for matter of ſcandall in his life, it did appear to them by the clear and pregnant teſtimony of many ſubſtantiall witneſſes, beyond all exception, That the ſaid <hi>Walter Powell</hi> having for diverſe years together now laſt paſt, had the Charge and Cure of the Soules of the people of the ſaid Pariſhes which have been many; and taken the Tithes, and other profits, incident and belonging to the ſaid Churches: yet hath been notoriouſly careleſſe thereof, and negligent of his Charge therein, ſometimes abſenting himſelf many moneths toge<g ref="char:EOLhyphen"/>ther, and not leaving any to Officiate for him; ſo that for diverſe Lords dayes to<g ref="char:EOLhyphen"/>ther, the people had neither preaching nor prayers: And in one of his Churches they had not the Sacrament in a whole yeare, cauſing the Bell to ring, and the Con<g ref="char:EOLhyphen"/>gregation to come together many times when there was neither ſermon nor prayers. And yet notwithſtanding, would not ſuffer his people that were well-affected, to goe abroad to other Churches, to hear godly and Orthodox Divines, but preached againſt them; preſented and vexed them for it in the Chancellours Court: And ſubſtituting, and keeping under him, to officiate in his Cures, baſe and ſcandalous Miniſters; which, when the people deſired to remove, and ſuppreſſe, he did by all meanes labour to keep in and bear up: And when the people had ſonetimes, by their owne care, procured honeſt and able men to ſupply the Charge, he did either by not paying off, or oppoſition againſt them, ſoone weary them, and make them deſert the place. And whereas it did alſo appeare to the Committee, by a cleare proof, that the ſaid <hi>Walter Powell</hi> hath been drunk diverſe times, and that he is a great frequenter of Ale houſes, and doth ſpend much time therein, and that he is very falſe, diſhoneſt, and injurious in his dealings, contentious and litigious amongſt his neighbours, one that doth exceedingly entangle himſelf in ſecular affaires, and is guilty of many other Crimes, and the ſaid <hi>Walter Powell</hi> being required by the Com<g ref="char:EOLhyphen"/>mittee, to anſwer thoſe Crimes charged upon him, he wilfully refuſed, and behaved himſelf ſo before the Committee, as declared in him a manifeſt neglect and con<g ref="char:EOLhyphen"/>tempt of them. It is therefore this day Ordered, that the ſaid <hi>Walter Powell</hi> ſhall be, and hereby is ejected and removed from the Vicaridge of <hi>Standiſh,</hi> and Chappels, or pariſh Churches of <hi>Hardwick, Rendwick,</hi> and <hi>Saul:</hi> and of all the ſaid Churches, and ſervice of the Cures thereof, and from the Tythes profits, and Revenues thereof: And that in his place, ſome ſuch godly, able, &amp; learned perſon ſhall be placed, and put in poſſeſſion of the ſaid Churches, and Cures ſeverally, and reſpectively as this Committee ſhall nominate and appoint, who ſhall receive, and have all the profits and revenues thereof, according to the Ordinance of Parliament made in that be<g ref="char:EOLhyphen"/>halfe.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Luke Nurſe.</hi> Major.</item>
+                     <item>
+                        <hi>James Kirle.</hi>
+                     </item>
+                     <item>
+                        <hi>John Fettiplace.</hi>
+                     </item>
+                     <item>
+                        <hi>Sil: Wood.</hi>
+                     </item>
+                     <item>
+                        <hi>Will: Sheppard.</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Jones.</hi>
+                     </item>
+                     <item>
+                        <hi>Stephen Fowler.</hi>
+                     </item>
+                     <item>
+                        <hi>Chriſt: Catchmay.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="petition">
+            <pb n="22" facs="tcp:29640:17"/>
+            <head>4 <hi>Febr.</hi> 1647.</head>
+            <p>
+               <hi>This day the Pariſhioners of</hi> Hardwick <hi>exhibited a Petition to the Com<g ref="char:EOLhyphen"/>mittee, deſiring them to admit of Mr.</hi> Henry Walker <hi>(a ſtranger) to be their Miniſter. Whereupon they made this enſuing Order.</hi>
+            </p>
+            <p>WHereas the Pariſhioners and Inhabitants of <hi>Hardwick</hi> have petitioned this Committee for the ſetling of Mr. <hi>Hen: Walker</hi> amongſt them to be their preſent Miniſter there: And the Committee have not as yet received ſatisfaction concerning his godly life and con<g ref="char:EOLhyphen"/>verſation. It is therefore Ordered, That the ſaid Mr. <hi>Walker</hi> ſhall Of<g ref="char:EOLhyphen"/>ficiate in the ſaid Pariſh, and be Preacher to the ſame Pariſh for his farther tryall, untill farther order be given by this Committee to the contrary. And that ſo long as he ſhall continue to ſerve that Cure, he ſhall receive all the profits incident thereunto.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>John Madocke</hi> Maior.</item>
+                     <item>
+                        <hi>Will. Sheppard.</hi>
+                     </item>
+                     <item>
+                        <hi>Jo: Dorney.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="order">
+            <argument>
+               <p>
+                  <hi>After Maſter</hi> Walker <hi>had been there about five moneths, Informa<g ref="char:EOLhyphen"/>tion came in to the Committee againſt him upon Oath, That he had been in Armes againſt the Parliament. Whereupon they <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> an Order to eject him. The Copie whereof followeth.</hi>
+               </p>
+            </argument>
+            <opener>
+               <dateline>
+                  <date>18 <hi>Julii,</hi> 1648.</date>
+               </dateline>
+            </opener>
+            <p>WHereas ſeveral Depoſitions containing matter of Delinquencie and ill affection to the Parliament are exhibited againſt Maſter <hi>Hen: Walker</hi> the preſent Miniſter of <hi>Hardwick</hi> in the County of <hi>Glouc.</hi> whereby it appeares by the oathes of ſeverall witneſſes that the ſaid <hi>Hen: Walker</hi> hath been in actuall Armes againſt the Parliament, and was taken Priſoner by the Parliament Forces in the Kings Garriſon at <hi>Hynam</hi> about five yeares ſince: And the Committee being informed that the ſaid <hi>Walker</hi> is Ejected by the Committee of <hi>Mormouthſhire</hi> for his Delinquencie, and other crimes proved againſt him: It is there<g ref="char:EOLhyphen"/>upon Ordered, That the ſaid <hi>Hen: Walker</hi> be and is hereby Ejected and removed out of and from the Vicaridge of <hi>Hardwick,</hi> and from ſer<g ref="char:EOLhyphen"/>ving the Cure there: And that from henceforth he ſhall no longer of<g ref="char:EOLhyphen"/>ficiate in the Pariſh Church of <hi>Hardwick:</hi> And that in his roome, ſome godly, able Miniſter be placed, ſuch as this Committee ſhall nominate and appoint, according to the Ordinance of Parl. in that behalfe.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>John Madocke</hi> Maior.</item>
+                     <item>
+                        <hi>Will: Sheppard.</hi>
+                     </item>
+                     <item>
+                        <hi>Jo: Dorney.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
